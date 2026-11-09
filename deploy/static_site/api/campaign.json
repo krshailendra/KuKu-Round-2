@@ -1,0 +1,4300 @@
+{
+  "mode": "hybrid",
+  "pack": [
+    {
+      "campaign_rank": 1,
+      "post_rank": 1,
+      "episode": 3,
+      "series_global_score": 8.68,
+      "series_score": 8.68,
+      "adjusted_series_score": 8.76,
+      "overall_score": 7.86,
+      "campaign_role": "acquisition",
+      "continuity_themes": [
+        "wedding_betrayal",
+        "violence_peril",
+        "rival_court"
+      ],
+      "timecode": {
+        "start_sec": 0.0,
+        "end_sec": 22.5,
+        "duration_sec": 22.5,
+        "start_tc": "00:00.000",
+        "end_tc": "00:22.500"
+      },
+      "hook": "I didn't steal what was never truly yours.",
+      "cliffhanger": "\"Now it is mine.\"",
+      "why_it_works": "Emotional/Cliffhanger beat (7.86/10): identity/lineage stakes land fast; betrayal/power turn is instantly readable cold.",
+      "post_why": "Ep 3 · acquisition: cold-open fuel — works without binge homework. Continuity fit 10.0/10, clarity 8.3/10, spine=[wedding_betrayal, violence_peril, rival_court], tags=[emotional, cliffhanger, thrilling] (tags not scored), global=8.68.",
+      "promo_types": [
+        "emotional",
+        "cliffhanger",
+        "thrilling"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 0.0,
+          "end_sec": 22.5,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 0.0,
+          "end_sec": 8.5,
+          "label": "Hook (opening lines) · scene_1"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 8.5,
+          "end_sec": 16.3,
+          "label": "Escalation · scene_1"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 16.3,
+          "end_sec": 22.5,
+          "label": "Cliffhanger (exit line) · scene_1"
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "start_sec": 0.0,
+      "end_sec": 22.5,
+      "duration_sec": 22.5,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot"
+    },
+    {
+      "campaign_rank": 2,
+      "post_rank": 2,
+      "episode": 32,
+      "series_global_score": 8.616,
+      "series_score": 8.616,
+      "adjusted_series_score": 8.516,
+      "overall_score": 8.05,
+      "campaign_role": "climax",
+      "continuity_themes": [
+        "central_bond",
+        "wedding_betrayal",
+        "violence_peril"
+      ],
+      "timecode": {
+        "start_sec": 107.2,
+        "end_sec": 142.4,
+        "duration_sec": 35.2,
+        "start_tc": "01:47.200",
+        "end_tc": "02:22.400"
+      },
+      "hook": "\"And a woman who never embarrasses the people standing behind her.\"",
+      "cliffhanger": "\"...but you will never have the courage to earn what you demand from everyone else.\"",
+      "why_it_works": "Emotional/Cliffhanger beat (8.05/10): identity/lineage stakes land fast; intimacy and danger collide.",
+      "post_why": "Ep 32 · climax: peak tension for invested viewers. Continuity fit 9.57/10, clarity 7.8/10, spine=[central_bond, wedding_betrayal, violence_peril], tags=[emotional, cliffhanger, revelation, romantic] (tags not scored), global=8.616.",
+      "promo_types": [
+        "emotional",
+        "cliffhanger",
+        "revelation",
+        "romantic"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 107.2,
+          "end_sec": 142.4,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 107.2,
+          "end_sec": 119.5,
+          "label": "Hook (opening lines) · scene_1"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 119.5,
+          "end_sec": 131.8,
+          "label": "Escalation · scene_1"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 131.8,
+          "end_sec": 142.4,
+          "label": "Cliffhanger (exit line) · scene_1"
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "start_sec": 107.2,
+      "end_sec": 142.4,
+      "duration_sec": 35.2,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot"
+    },
+    {
+      "campaign_rank": 3,
+      "post_rank": 3,
+      "episode": 35,
+      "series_global_score": 8.401,
+      "series_score": 8.401,
+      "adjusted_series_score": 8.481,
+      "overall_score": 7.65,
+      "campaign_role": "climax",
+      "continuity_themes": [
+        "secret_truth",
+        "identity_lineage",
+        "central_bond"
+      ],
+      "timecode": {
+        "start_sec": 122.0,
+        "end_sec": 157.5,
+        "duration_sec": 35.5,
+        "start_tc": "02:02.000",
+        "end_tc": "02:37.500"
+      },
+      "hook": "\"I survived because the men who came looking for me believed I was already dead.\"",
+      "cliffhanger": "\"The men behind it... are the same men ruling Ashwood now.\"",
+      "why_it_works": "Cliffhanger/Revelation beat (7.65/10): identity/lineage stakes land fast.",
+      "post_why": "Ep 35 · climax: peak tension for invested viewers. Continuity fit 8.34/10, clarity 7.8/10, spine=[secret_truth, identity_lineage, central_bond], tags=[cliffhanger, revelation] (tags not scored), global=8.401.",
+      "promo_types": [
+        "cliffhanger",
+        "revelation"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_3",
+          "start_sec": 122.0,
+          "end_sec": 157.5,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_3",
+          "start_sec": 122.0,
+          "end_sec": 130.5,
+          "label": "Hook (opening lines) · scene_3"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_3",
+          "start_sec": 130.5,
+          "end_sec": 140.5,
+          "label": "Escalation · scene_3"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_3",
+          "start_sec": 140.5,
+          "end_sec": 157.5,
+          "label": "Cliffhanger (exit line) · scene_3"
+        }
+      ],
+      "scene_ids": [
+        "scene_3"
+      ],
+      "start_sec": 122.0,
+      "end_sec": 157.5,
+      "duration_sec": 35.5,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot"
+    },
+    {
+      "campaign_rank": 4,
+      "post_rank": 4,
+      "episode": 44,
+      "series_global_score": 8.485,
+      "series_score": 8.485,
+      "adjusted_series_score": 8.205,
+      "overall_score": 8.05,
+      "campaign_role": "payoff",
+      "continuity_themes": [
+        "central_bond",
+        "identity_lineage",
+        "power_disownment"
+      ],
+      "timecode": {
+        "start_sec": 28.4,
+        "end_sec": 65.0,
+        "duration_sec": 36.6,
+        "start_tc": "00:28.400",
+        "end_tc": "01:05.000"
+      },
+      "hook": "\"Do you know what this did to me?\"",
+      "cliffhanger": "\"Did you?\"",
+      "why_it_works": "Emotional/Cliffhanger beat (8.05/10): identity/lineage stakes land fast; intimacy and danger collide.",
+      "post_why": "Ep 44 · payoff: late-arc resonance — better after acquisition/bonding pack. Continuity fit 9.2/10, clarity 8.9/10, spine=[central_bond, identity_lineage, power_disownment], tags=[emotional, cliffhanger, revelation, romantic] (tags not scored), global=8.485.",
+      "promo_types": [
+        "emotional",
+        "cliffhanger",
+        "revelation",
+        "romantic"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_2",
+          "start_sec": 28.4,
+          "end_sec": 65.0,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_2",
+          "start_sec": 28.4,
+          "end_sec": 41.2,
+          "label": "Hook (opening lines) · scene_2"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_2",
+          "start_sec": 41.2,
+          "end_sec": 53.0,
+          "label": "Escalation · scene_2"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_2",
+          "start_sec": 53.0,
+          "end_sec": 65.0,
+          "label": "Cliffhanger (exit line) · scene_2"
+        }
+      ],
+      "scene_ids": [
+        "scene_2"
+      ],
+      "start_sec": 28.4,
+      "end_sec": 65.0,
+      "duration_sec": 36.6,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot"
+    },
+    {
+      "campaign_rank": 5,
+      "post_rank": 5,
+      "episode": 11,
+      "series_global_score": 8.465,
+      "series_score": 8.465,
+      "adjusted_series_score": 8.125,
+      "overall_score": 7.42,
+      "campaign_role": "bonding",
+      "continuity_themes": [
+        "central_bond",
+        "violence_peril",
+        "home_garden"
+      ],
+      "timecode": {
+        "start_sec": 18.5,
+        "end_sec": 53.6,
+        "duration_sec": 35.1,
+        "start_tc": "00:18.500",
+        "end_tc": "00:53.600"
+      },
+      "hook": "\"Your husband stole my gold pocket watch!\"",
+      "cliffhanger": "...let the constable search.\" \"Search it.",
+      "why_it_works": "Cliffhanger/Revelation beat (7.42/10): high-voltage delivery.",
+      "post_why": "Ep 11 · bonding: locks the central relationship so new viewers care. Continuity fit 10.0/10, clarity 7.1/10, spine=[central_bond, violence_peril, home_garden], tags=[cliffhanger, revelation] (tags not scored), global=8.465.",
+      "promo_types": [
+        "cliffhanger",
+        "revelation"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 18.5,
+          "end_sec": 53.6,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 18.5,
+          "end_sec": 28.9,
+          "label": "Hook (opening lines) · scene_1"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 28.9,
+          "end_sec": 41.1,
+          "label": "Escalation · scene_1"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 41.1,
+          "end_sec": 53.6,
+          "label": "Cliffhanger (exit line) · scene_1"
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "start_sec": 18.5,
+      "end_sec": 53.6,
+      "duration_sec": 35.1,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot"
+    },
+    {
+      "campaign_rank": 6,
+      "post_rank": 6,
+      "episode": 35,
+      "series_global_score": 8.531,
+      "series_score": 8.531,
+      "adjusted_series_score": 7.931,
+      "overall_score": 8.05,
+      "campaign_role": "climax",
+      "continuity_themes": [
+        "secret_truth",
+        "identity_lineage",
+        "central_bond"
+      ],
+      "timecode": {
+        "start_sec": 71.5,
+        "end_sec": 125.5,
+        "duration_sec": 54.0,
+        "start_tc": "01:11.500",
+        "end_tc": "02:05.500"
+      },
+      "hook": "\"Then how did you survive?\"",
+      "cliffhanger": "\"Then why did they never tell us?\"",
+      "why_it_works": "Emotional/Cliffhanger beat (8.05/10): identity/lineage stakes land fast; open question pulls the next click.",
+      "post_why": "Ep 35 · climax: peak tension for invested viewers. Continuity fit 9.39/10, clarity 7.8/10, spine=[secret_truth, identity_lineage, central_bond], tags=[emotional, cliffhanger, revelation] (tags not scored), global=8.531.",
+      "promo_types": [
+        "emotional",
+        "cliffhanger",
+        "revelation"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_3",
+          "start_sec": 71.5,
+          "end_sec": 125.5,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_3",
+          "start_sec": 71.5,
+          "end_sec": 92.0,
+          "label": "Hook (opening lines) · scene_3"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_3",
+          "start_sec": 92.0,
+          "end_sec": 106.0,
+          "label": "Escalation · scene_3"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_3",
+          "start_sec": 106.0,
+          "end_sec": 125.5,
+          "label": "Cliffhanger (exit line) · scene_3"
+        }
+      ],
+      "scene_ids": [
+        "scene_3"
+      ],
+      "start_sec": 71.5,
+      "end_sec": 125.5,
+      "duration_sec": 54.0,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot"
+    },
+    {
+      "campaign_rank": 7,
+      "post_rank": 7,
+      "episode": 2,
+      "series_global_score": 8.383,
+      "series_score": 8.383,
+      "adjusted_series_score": 7.823,
+      "overall_score": 7.39,
+      "campaign_role": "acquisition",
+      "continuity_themes": [
+        "wedding_betrayal",
+        "rival_court",
+        "identity_lineage"
+      ],
+      "timecode": {
+        "start_sec": 34.3,
+        "end_sec": 69.3,
+        "duration_sec": 35.0,
+        "start_tc": "00:34.300",
+        "end_tc": "01:09.300"
+      },
+      "hook": "\"Surely you will not let him humiliate me like this?\"",
+      "cliffhanger": "\"You should be grateful you're at least allowed to attend the wedding.\"",
+      "why_it_works": "Emotional/Revelation beat (7.39/10): identity/lineage stakes land fast; betrayal/power turn is instantly readable cold.",
+      "post_why": "Ep 2 · acquisition: cold-open fuel — works without binge homework. Continuity fit 10.0/10, clarity 8.9/10, spine=[wedding_betrayal, rival_court, identity_lineage], tags=[emotional, revelation, romantic, thrilling] (tags not scored), global=8.383.",
+      "promo_types": [
+        "emotional",
+        "revelation",
+        "romantic",
+        "thrilling"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 34.3,
+          "end_sec": 69.3,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 34.3,
+          "end_sec": 51.5,
+          "label": "Hook (opening lines) · scene_1"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 51.5,
+          "end_sec": 60.5,
+          "label": "Escalation · scene_1"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 60.5,
+          "end_sec": 69.3,
+          "label": "Cliffhanger (exit line) · scene_1"
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "start_sec": 34.3,
+      "end_sec": 69.3,
+      "duration_sec": 35.0,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot"
+    },
+    {
+      "campaign_rank": 8,
+      "post_rank": 8,
+      "episode": 9,
+      "series_global_score": 8.149,
+      "series_score": 8.149,
+      "adjusted_series_score": 7.649,
+      "overall_score": 7.22,
+      "campaign_role": "bonding",
+      "continuity_themes": [
+        "identity_lineage",
+        "power_disownment",
+        "wedding_betrayal"
+      ],
+      "timecode": {
+        "start_sec": 83.8,
+        "end_sec": 115.5,
+        "duration_sec": 31.7,
+        "start_tc": "01:23.800",
+        "end_tc": "01:55.500"
+      },
+      "hook": "\"Then we will face it together.\"",
+      "cliffhanger": "\"Impossible.\"",
+      "why_it_works": "Cliffhanger beat (7.22/10): identity/lineage stakes land fast.",
+      "post_why": "Ep 9 · bonding: locks the central relationship so new viewers care. Continuity fit 10.0/10, clarity 7.4/10, spine=[identity_lineage, power_disownment, wedding_betrayal], tags=[cliffhanger] (tags not scored), global=8.149.",
+      "promo_types": [
+        "cliffhanger"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_2",
+          "start_sec": 83.8,
+          "end_sec": 115.5,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 83.8,
+          "end_sec": 83.8,
+          "label": "Hook · scene_1"
+        },
+        {
+          "index": 3,
+          "role": "cliffhanger",
+          "scene_id": "scene_2",
+          "start_sec": 83.8,
+          "end_sec": 115.5,
+          "label": "Cliffhanger · scene_2"
+        }
+      ],
+      "scene_ids": [
+        "scene_2"
+      ],
+      "start_sec": 83.8,
+      "end_sec": 115.5,
+      "duration_sec": 31.7,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot"
+    },
+    {
+      "campaign_rank": 9,
+      "post_rank": 9,
+      "episode": 21,
+      "series_global_score": 8.46,
+      "series_score": 8.46,
+      "adjusted_series_score": 7.48,
+      "overall_score": 7.86,
+      "campaign_role": "escalation",
+      "continuity_themes": [
+        "identity_lineage",
+        "violence_peril",
+        "secret_truth"
+      ],
+      "timecode": {
+        "start_sec": 76.0,
+        "end_sec": 114.0,
+        "duration_sec": 38.0,
+        "start_tc": "01:16.000",
+        "end_tc": "01:54.000"
+      },
+      "hook": "\"Keep him warm. Give him three drops of this coltsfoot tea every morning.\"",
+      "cliffhanger": "\"Inside that massive house with all their wealth, she is fading to nothing, and no one can stop it.\"",
+      "why_it_works": "Emotional/Cliffhanger beat (7.86/10): identity/lineage stakes land fast.",
+      "post_why": "Ep 21 · escalation: raises stakes mid-arc; binge bait after the open pack. Continuity fit 10.0/10, clarity 8.5/10, spine=[identity_lineage, violence_peril, secret_truth], tags=[emotional, cliffhanger] (tags not scored), global=8.46.",
+      "promo_types": [
+        "emotional",
+        "cliffhanger"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_3",
+          "start_sec": 76.0,
+          "end_sec": 114.0,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_3",
+          "start_sec": 76.0,
+          "end_sec": 90.8,
+          "label": "Hook (opening lines) · scene_3"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_3",
+          "start_sec": 90.8,
+          "end_sec": 99.2,
+          "label": "Escalation · scene_3"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_3",
+          "start_sec": 99.2,
+          "end_sec": 114.0,
+          "label": "Cliffhanger (exit line) · scene_3"
+        }
+      ],
+      "scene_ids": [
+        "scene_3"
+      ],
+      "start_sec": 76.0,
+      "end_sec": 114.0,
+      "duration_sec": 38.0,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot"
+    },
+    {
+      "campaign_rank": 10,
+      "post_rank": 10,
+      "episode": 36,
+      "series_global_score": 8.073,
+      "series_score": 8.073,
+      "adjusted_series_score": 7.453,
+      "overall_score": 7.22,
+      "campaign_role": "climax",
+      "continuity_themes": [
+        "power_disownment",
+        "wedding_betrayal",
+        "identity_lineage"
+      ],
+      "timecode": {
+        "start_sec": 60.9,
+        "end_sec": 99.0,
+        "duration_sec": 38.1,
+        "start_tc": "01:00.900",
+        "end_tc": "01:39.000"
+      },
+      "hook": "\"I trusted them.\"",
+      "cliffhanger": "\"Then where is she?\"",
+      "why_it_works": "Cliffhanger beat (7.22/10): identity/lineage stakes land fast; intimacy and danger collide.",
+      "post_why": "Ep 36 · climax: peak tension for invested viewers. Continuity fit 10.0/10, clarity 7.8/10, spine=[power_disownment, wedding_betrayal, identity_lineage], tags=[cliffhanger] (tags not scored), global=8.073.",
+      "promo_types": [
+        "cliffhanger"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 60.9,
+          "end_sec": 99.0,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 60.9,
+          "end_sec": 74.7,
+          "label": "Hook (opening lines) · scene_1"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 74.7,
+          "end_sec": 85.5,
+          "label": "Escalation · scene_1"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 85.5,
+          "end_sec": 99.0,
+          "label": "Cliffhanger (exit line) · scene_1"
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "start_sec": 60.9,
+      "end_sec": 99.0,
+      "duration_sec": 38.1,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot"
+    },
+    {
+      "campaign_rank": 11,
+      "post_rank": 11,
+      "episode": 32,
+      "series_global_score": 8.051,
+      "series_score": 8.051,
+      "adjusted_series_score": 7.331,
+      "overall_score": 7.22,
+      "campaign_role": "climax",
+      "continuity_themes": [
+        "central_bond",
+        "rival_court",
+        "identity_lineage"
+      ],
+      "timecode": {
+        "start_sec": 41.0,
+        "end_sec": 77.6,
+        "duration_sec": 36.6,
+        "start_tc": "00:41.000",
+        "end_tc": "01:17.600"
+      },
+      "hook": "\"No. Your cruelty does that for me.\"",
+      "cliffhanger": "\"I was freed. And I found a man who never asked me what I was worth.\"",
+      "why_it_works": "Cliffhanger beat (7.22/10): clean hook→pressure→turn inside a tight window.",
+      "post_why": "Ep 32 · climax: peak tension for invested viewers. Continuity fit 10.0/10, clarity 7.1/10, spine=[central_bond, rival_court, identity_lineage], tags=[cliffhanger] (tags not scored), global=8.051.",
+      "promo_types": [
+        "cliffhanger"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 41.0,
+          "end_sec": 77.6,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 41.0,
+          "end_sec": 52.5,
+          "label": "Hook (opening lines) · scene_1"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 52.5,
+          "end_sec": 67.0,
+          "label": "Escalation · scene_1"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 67.0,
+          "end_sec": 77.6,
+          "label": "Cliffhanger (exit line) · scene_1"
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "start_sec": 41.0,
+      "end_sec": 77.6,
+      "duration_sec": 36.6,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:global>=7.85"
+    },
+    {
+      "campaign_rank": 12,
+      "post_rank": 12,
+      "episode": 3,
+      "series_global_score": 8.318,
+      "series_score": 8.318,
+      "adjusted_series_score": 7.238,
+      "overall_score": 7.86,
+      "campaign_role": "acquisition",
+      "continuity_themes": [
+        "rival_court",
+        "wedding_betrayal",
+        "identity_lineage"
+      ],
+      "timecode": {
+        "start_sec": 108.8,
+        "end_sec": 145.75,
+        "duration_sec": 37.0,
+        "start_tc": "01:48.800",
+        "end_tc": "02:25.750"
+      },
+      "hook": "\"...to remember your worth.\"",
+      "cliffhanger": "\"Lady Juliana... accept my hand.\"",
+      "why_it_works": "Emotional/Cliffhanger beat (7.86/10): identity/lineage stakes land fast.",
+      "post_why": "Ep 3 · acquisition: cold-open fuel — works without binge homework. Continuity fit 7.49/10, clarity 8.2/10, spine=[rival_court, wedding_betrayal, identity_lineage], tags=[emotional, cliffhanger, romantic] (tags not scored), global=8.318.",
+      "promo_types": [
+        "emotional",
+        "cliffhanger",
+        "romantic"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_3",
+          "start_sec": 108.8,
+          "end_sec": 145.75,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_3",
+          "start_sec": 108.8,
+          "end_sec": 117.9,
+          "label": "Hook (opening lines) · scene_3"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_3",
+          "start_sec": 117.9,
+          "end_sec": 129.9,
+          "label": "Escalation · scene_3"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_3",
+          "start_sec": 129.9,
+          "end_sec": 145.75,
+          "label": "Cliffhanger (exit line) · scene_3"
+        }
+      ],
+      "scene_ids": [
+        "scene_3"
+      ],
+      "start_sec": 108.8,
+      "end_sec": 145.75,
+      "duration_sec": 37.0,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:global>=7.85"
+    },
+    {
+      "campaign_rank": 13,
+      "post_rank": 13,
+      "episode": 14,
+      "series_global_score": 8.337,
+      "series_score": 8.337,
+      "adjusted_series_score": 7.077,
+      "overall_score": 7.86,
+      "campaign_role": "bonding",
+      "continuity_themes": [
+        "violence_peril",
+        "central_bond",
+        "home_garden"
+      ],
+      "timecode": {
+        "start_sec": 1.0,
+        "end_sec": 38.5,
+        "duration_sec": 37.5,
+        "start_tc": "00:01.000",
+        "end_tc": "00:38.500"
+      },
+      "hook": "I found it.",
+      "cliffhanger": "\"You should never have had to bleed for me.\"",
+      "why_it_works": "Emotional/Cliffhanger beat (7.86/10): betrayal/power turn is instantly readable cold; intimacy and danger collide.",
+      "post_why": "Ep 14 · bonding: locks the central relationship so new viewers care. Continuity fit 8.75/10, clarity 8.9/10, spine=[violence_peril, central_bond, home_garden], tags=[emotional, cliffhanger, romantic, thrilling] (tags not scored), global=8.337.",
+      "promo_types": [
+        "emotional",
+        "cliffhanger",
+        "romantic",
+        "thrilling"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 1.0,
+          "end_sec": 38.5,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 1.0,
+          "end_sec": 13.5,
+          "label": "Hook (opening lines) · scene_1"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 13.5,
+          "end_sec": 25.5,
+          "label": "Escalation · scene_1"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 25.5,
+          "end_sec": 38.5,
+          "label": "Cliffhanger (exit line) · scene_1"
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "start_sec": 1.0,
+      "end_sec": 38.5,
+      "duration_sec": 37.5,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:global>=7.85"
+    },
+    {
+      "campaign_rank": 14,
+      "post_rank": 14,
+      "episode": 36,
+      "series_global_score": 8.226,
+      "series_score": 8.226,
+      "adjusted_series_score": 6.866,
+      "overall_score": 7.86,
+      "campaign_role": "climax",
+      "continuity_themes": [
+        "power_disownment",
+        "wedding_betrayal",
+        "identity_lineage"
+      ],
+      "timecode": {
+        "start_sec": 41.6,
+        "end_sec": 78.1,
+        "duration_sec": 36.5,
+        "start_tc": "00:41.600",
+        "end_tc": "01:18.100"
+      },
+      "hook": "\"They declared me dead.\"",
+      "cliffhanger": "\"She went into Ashbourne Manor to save you. She never came back.\"",
+      "why_it_works": "Emotional/Cliffhanger beat (7.86/10): identity/lineage stakes land fast.",
+      "post_why": "Ep 36 · climax: peak tension for invested viewers. Continuity fit 10.0/10, clarity 7.2/10, spine=[power_disownment, wedding_betrayal, identity_lineage], tags=[emotional, cliffhanger] (tags not scored), global=8.226.",
+      "promo_types": [
+        "emotional",
+        "cliffhanger"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 41.6,
+          "end_sec": 78.1,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 41.6,
+          "end_sec": 51.8,
+          "label": "Hook (opening lines) · scene_1"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 51.8,
+          "end_sec": 63.8,
+          "label": "Escalation · scene_1"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 63.8,
+          "end_sec": 78.1,
+          "label": "Cliffhanger (exit line) · scene_1"
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "start_sec": 41.6,
+      "end_sec": 78.1,
+      "duration_sec": 36.5,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:global>=7.85"
+    },
+    {
+      "campaign_rank": 15,
+      "post_rank": 15,
+      "episode": 5,
+      "series_global_score": 7.486,
+      "series_score": 7.486,
+      "adjusted_series_score": 6.846,
+      "overall_score": 6.56,
+      "campaign_role": "acquisition",
+      "continuity_themes": [
+        "identity_lineage",
+        "power_disownment",
+        "wedding_betrayal"
+      ],
+      "timecode": {
+        "start_sec": 10.5,
+        "end_sec": 46.0,
+        "duration_sec": 35.5,
+        "start_tc": "00:10.500",
+        "end_tc": "00:46.000"
+      },
+      "hook": "\"The vows are spoken, Father. I am his wife now.\"",
+      "cliffhanger": "You chose that long before today.",
+      "why_it_works": "Conflict beat (6.56/10): identity/lineage stakes land fast.",
+      "post_why": "Ep 5 · acquisition: cold-open fuel — works without binge homework. Continuity fit 8.56/10, clarity 7.5/10, spine=[identity_lineage, power_disownment, wedding_betrayal], tags=[conflict] (tags not scored), global=7.486.",
+      "promo_types": [
+        "conflict"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 10.5,
+          "end_sec": 46.0,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 10.5,
+          "end_sec": 20.8,
+          "label": "Hook (opening lines) · scene_1"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 20.8,
+          "end_sec": 36.5,
+          "label": "Escalation · scene_1"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 36.5,
+          "end_sec": 46.0,
+          "label": "Cliffhanger (exit line) · scene_1"
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "start_sec": 10.5,
+      "end_sec": 46.0,
+      "duration_sec": 35.5,
+      "marketer_protected": false,
+      "marketer_decision": "KEEP:gates_pass"
+    },
+    {
+      "campaign_rank": 16,
+      "post_rank": 16,
+      "episode": 11,
+      "series_global_score": 8.119,
+      "series_score": 8.119,
+      "adjusted_series_score": 6.819,
+      "overall_score": 7.22,
+      "campaign_role": "bonding",
+      "continuity_themes": [
+        "central_bond",
+        "violence_peril",
+        "rival_court"
+      ],
+      "timecode": {
+        "start_sec": 0.0,
+        "end_sec": 32.8,
+        "duration_sec": 32.8,
+        "start_tc": "00:00.000",
+        "end_tc": "00:32.800"
+      },
+      "hook": "\"Gerald? What are you doing here?\"",
+      "cliffhanger": "\"Of course you would defend him. You married a beggar!\"",
+      "why_it_works": "Cliffhanger beat (7.22/10): open question pulls the next click; high-voltage delivery.",
+      "post_why": "Ep 11 · bonding: locks the central relationship so new viewers care. Continuity fit 10.0/10, clarity 7.1/10, spine=[central_bond, violence_peril, rival_court], tags=[cliffhanger] (tags not scored), global=8.119.",
+      "promo_types": [
+        "cliffhanger"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 0.0,
+          "end_sec": 32.8,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 0.0,
+          "end_sec": 10.7,
+          "label": "Hook (opening lines) · scene_1"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 10.7,
+          "end_sec": 22.0,
+          "label": "Escalation · scene_1"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 22.0,
+          "end_sec": 32.8,
+          "label": "Cliffhanger (exit line) · scene_1"
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "start_sec": 0.0,
+      "end_sec": 32.8,
+      "duration_sec": 32.8,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:global>=7.85"
+    },
+    {
+      "campaign_rank": 17,
+      "post_rank": 17,
+      "episode": 33,
+      "series_global_score": 8.208,
+      "series_score": 8.208,
+      "adjusted_series_score": 6.568,
+      "overall_score": 7.24,
+      "campaign_role": "climax",
+      "continuity_themes": [
+        "identity_lineage",
+        "central_bond",
+        "violence_peril"
+      ],
+      "timecode": {
+        "start_sec": 81.0,
+        "end_sec": 144.0,
+        "duration_sec": 63.0,
+        "start_tc": "01:21.000",
+        "end_tc": "02:24.000"
+      },
+      "hook": "She drew something around the bed, did she not?",
+      "cliffhanger": "\"I never said she was a witch!\"",
+      "why_it_works": "Cliffhanger/Revelation beat (7.24/10): identity/lineage stakes land fast; open question pulls the next click.",
+      "post_why": "Ep 33 · climax: peak tension for invested viewers. Continuity fit 10.0/10, clarity 7.0/10, spine=[identity_lineage, central_bond, violence_peril], tags=[cliffhanger, revelation] (tags not scored), global=8.208.",
+      "promo_types": [
+        "cliffhanger",
+        "revelation"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 81.0,
+          "end_sec": 144.0,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 81.0,
+          "end_sec": 100.0,
+          "label": "Hook (opening lines) · scene_1"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 100.0,
+          "end_sec": 123.5,
+          "label": "Escalation · scene_1"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 123.5,
+          "end_sec": 144.0,
+          "label": "Cliffhanger (exit line) · scene_1"
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "start_sec": 81.0,
+      "end_sec": 144.0,
+      "duration_sec": 63.0,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:global>=7.85"
+    },
+    {
+      "campaign_rank": 18,
+      "post_rank": 18,
+      "episode": 15,
+      "series_global_score": 8.015,
+      "series_score": 8.015,
+      "adjusted_series_score": 6.315,
+      "overall_score": 7.39,
+      "campaign_role": "bonding",
+      "continuity_themes": [
+        "central_bond",
+        "home_garden",
+        "violence_peril"
+      ],
+      "timecode": {
+        "start_sec": 8.5,
+        "end_sec": 46.4,
+        "duration_sec": 37.9,
+        "start_tc": "00:08.500",
+        "end_tc": "00:46.400"
+      },
+      "hook": "\"Stop! What are you doing?!\"",
+      "cliffhanger": "\"Get out of the way!\"",
+      "why_it_works": "Emotional/Revelation beat (7.39/10): identity/lineage stakes land fast; physical peril raises binge urgency.",
+      "post_why": "Ep 15 · bonding: locks the central relationship so new viewers care. Continuity fit 10.0/10, clarity 7.5/10, spine=[central_bond, home_garden, violence_peril], tags=[emotional, revelation, romantic, thrilling] (tags not scored), global=8.015.",
+      "promo_types": [
+        "emotional",
+        "revelation",
+        "romantic",
+        "thrilling"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 8.5,
+          "end_sec": 46.4,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 8.5,
+          "end_sec": 22.5,
+          "label": "Hook (opening lines) · scene_1"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 22.5,
+          "end_sec": 34.0,
+          "label": "Escalation · scene_1"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 34.0,
+          "end_sec": 46.4,
+          "label": "Cliffhanger (exit line) · scene_1"
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "start_sec": 8.5,
+      "end_sec": 46.4,
+      "duration_sec": 37.9,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:global>=7.85"
+    },
+    {
+      "campaign_rank": 19,
+      "post_rank": 19,
+      "episode": 26,
+      "series_global_score": 7.936,
+      "series_score": 7.936,
+      "adjusted_series_score": 6.216,
+      "overall_score": 7.6,
+      "campaign_role": "escalation",
+      "continuity_themes": [
+        "violence_peril",
+        "secret_truth",
+        "central_bond"
+      ],
+      "timecode": {
+        "start_sec": 30.8,
+        "end_sec": 67.0,
+        "duration_sec": 36.2,
+        "start_tc": "00:30.800",
+        "end_tc": "01:07.000"
+      },
+      "hook": "\"You... you are no common servant. You took Catherine's whip for me the other day.\"",
+      "cliffhanger": "\"Yes. But the charcoal is fighting the poison. You are safe now.\"",
+      "why_it_works": "Emotional/Revelation beat (7.6/10): identity/lineage stakes land fast.",
+      "post_why": "Ep 26 · escalation: raises stakes mid-arc; binge bait after the open pack. Continuity fit 8.16/10, clarity 7.1/10, spine=[violence_peril, secret_truth, central_bond], tags=[emotional, revelation] (tags not scored), global=7.936.",
+      "promo_types": [
+        "emotional",
+        "revelation"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 30.8,
+          "end_sec": 67.0,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 30.8,
+          "end_sec": 39.8,
+          "label": "Hook (opening lines) · scene_1"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 39.8,
+          "end_sec": 55.8,
+          "label": "Escalation · scene_1"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 55.8,
+          "end_sec": 67.0,
+          "label": "Cliffhanger (exit line) · scene_1"
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "start_sec": 30.8,
+      "end_sec": 67.0,
+      "duration_sec": 36.2,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:global>=7.85"
+    },
+    {
+      "campaign_rank": 20,
+      "post_rank": 20,
+      "episode": 5,
+      "series_global_score": 7.542,
+      "series_score": 7.542,
+      "adjusted_series_score": 6.142,
+      "overall_score": 6.57,
+      "campaign_role": "acquisition",
+      "continuity_themes": [
+        "identity_lineage",
+        "wedding_betrayal",
+        "power_disownment"
+      ],
+      "timecode": {
+        "start_sec": 0.0,
+        "end_sec": 15.8,
+        "duration_sec": 15.8,
+        "start_tc": "00:00.000",
+        "end_tc": "00:15.800"
+      },
+      "hook": "You will not leave this church carrying the Ashcroft name.",
+      "cliffhanger": "\"The vows are spoken, Father. I am his wife now.\"",
+      "why_it_works": "Conflict beat (6.57/10): identity/lineage stakes land fast; betrayal/power turn is instantly readable cold.",
+      "post_why": "Ep 5 · acquisition: cold-open fuel — works without binge homework. Continuity fit 9.79/10, clarity 7.6/10, spine=[identity_lineage, wedding_betrayal, power_disownment], tags=[conflict] (tags not scored), global=7.542.",
+      "promo_types": [
+        "conflict"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 0.0,
+          "end_sec": 15.8,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 0.0,
+          "end_sec": 6.0,
+          "label": "Hook (opening lines) · scene_1"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 6.0,
+          "end_sec": 10.5,
+          "label": "Escalation · scene_1"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 10.5,
+          "end_sec": 15.8,
+          "label": "Cliffhanger (exit line) · scene_1"
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "start_sec": 0.0,
+      "end_sec": 15.8,
+      "duration_sec": 15.8,
+      "marketer_protected": false,
+      "marketer_decision": "KEEP:gates_pass"
+    },
+    {
+      "campaign_rank": 21,
+      "post_rank": 21,
+      "episode": 31,
+      "series_global_score": 7.901,
+      "series_score": 7.901,
+      "adjusted_series_score": 6.001,
+      "overall_score": 7.22,
+      "campaign_role": "climax",
+      "continuity_themes": [
+        "identity_lineage",
+        "violence_peril",
+        "rival_court"
+      ],
+      "timecode": {
+        "start_sec": 21.0,
+        "end_sec": 59.0,
+        "duration_sec": 38.0,
+        "start_tc": "00:21.000",
+        "end_tc": "00:59.000"
+      },
+      "hook": "Everyone saw you. Everyone watched him chose Clarisse.",
+      "cliffhanger": "\"And everyone watched you walk away alone.\"",
+      "why_it_works": "Cliffhanger beat (7.22/10): betrayal/power turn is instantly readable cold.",
+      "post_why": "Ep 31 · climax: peak tension for invested viewers. Continuity fit 9.43/10, clarity 6.4/10, spine=[identity_lineage, violence_peril, rival_court], tags=[cliffhanger] (tags not scored), global=7.901.",
+      "promo_types": [
+        "cliffhanger"
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 21.0,
+          "end_sec": 59.0,
+          "label": "Master in–out (cut this whole promo)"
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 21.0,
+          "end_sec": 34.8,
+          "label": "Hook (opening lines) · scene_1"
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 34.8,
+          "end_sec": 54.8,
+          "label": "Escalation · scene_1"
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 54.8,
+          "end_sec": 59.0,
+          "label": "Cliffhanger (exit line) · scene_1"
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "start_sec": 21.0,
+      "end_sec": 59.0,
+      "duration_sec": 38.0,
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:global>=7.85"
+    }
+  ],
+  "posting_order": [
+    {
+      "campaign_rank": 1,
+      "post_rank": 1,
+      "episode": 3,
+      "series_global_score": 8.68,
+      "overall_score": 7.86,
+      "campaign_role": "acquisition",
+      "continuity_themes": [
+        "wedding_betrayal",
+        "violence_peril",
+        "rival_court"
+      ],
+      "promo_types": [
+        "emotional",
+        "cliffhanger",
+        "thrilling"
+      ],
+      "labels": [
+        "emotional",
+        "cliffhanger",
+        "thrilling"
+      ],
+      "start_sec": 0.0,
+      "end_sec": 22.5,
+      "duration_sec": 22.5,
+      "start_tc": "00:00.000",
+      "end_tc": "00:22.500",
+      "hook": "I didn't steal what was never truly yours.",
+      "cliffhanger": "\"Now it is mine.\"",
+      "why_it_works": "Emotional/Cliffhanger beat (7.86/10): identity/lineage stakes land fast; betrayal/power turn is instantly readable cold.",
+      "post_why": "Ep 3 · acquisition: cold-open fuel — works without binge homework. Continuity fit 10.0/10, clarity 8.3/10, spine=[wedding_betrayal, violence_peril, rival_court], tags=[emotional, cliffhanger, thrilling] (tags not scored), global=8.68.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 0.0,
+          "end_sec": 22.5,
+          "start_tc": "00:00.000",
+          "end_tc": "00:22.500",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 0.0,
+          "end_sec": 8.5,
+          "start_tc": "00:00.000",
+          "end_tc": "00:08.500",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 8.5,
+          "end_sec": 16.3,
+          "start_tc": "00:08.500",
+          "end_tc": "00:16.300",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 16.3,
+          "end_sec": 22.5,
+          "start_tc": "00:16.300",
+          "end_tc": "00:22.500",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 0.0,
+          "end_sec": 22.5,
+          "start_tc": "00:00.000",
+          "end_tc": "00:22.500",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 0.0,
+          "end_sec": 8.5,
+          "start_tc": "00:00.000",
+          "end_tc": "00:08.500",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 8.5,
+          "end_sec": 16.3,
+          "start_tc": "00:08.500",
+          "end_tc": "00:16.300",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 16.3,
+          "end_sec": 22.5,
+          "start_tc": "00:16.300",
+          "end_tc": "00:22.500",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 2,
+      "post_rank": 2,
+      "episode": 32,
+      "series_global_score": 8.616,
+      "overall_score": 8.05,
+      "campaign_role": "climax",
+      "continuity_themes": [
+        "central_bond",
+        "wedding_betrayal",
+        "violence_peril"
+      ],
+      "promo_types": [
+        "emotional",
+        "cliffhanger",
+        "revelation",
+        "romantic"
+      ],
+      "labels": [
+        "emotional",
+        "cliffhanger",
+        "revelation",
+        "romantic"
+      ],
+      "start_sec": 107.2,
+      "end_sec": 142.4,
+      "duration_sec": 35.2,
+      "start_tc": "01:47.200",
+      "end_tc": "02:22.400",
+      "hook": "\"And a woman who never embarrasses the people standing behind her.\"",
+      "cliffhanger": "\"...but you will never have the courage to earn what you demand from everyone else.\"",
+      "why_it_works": "Emotional/Cliffhanger beat (8.05/10): identity/lineage stakes land fast; intimacy and danger collide.",
+      "post_why": "Ep 32 · climax: peak tension for invested viewers. Continuity fit 9.57/10, clarity 7.8/10, spine=[central_bond, wedding_betrayal, violence_peril], tags=[emotional, cliffhanger, revelation, romantic] (tags not scored), global=8.616.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 107.2,
+          "end_sec": 142.4,
+          "start_tc": "01:47.200",
+          "end_tc": "02:22.400",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 107.2,
+          "end_sec": 119.5,
+          "start_tc": "01:47.200",
+          "end_tc": "01:59.500",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 119.5,
+          "end_sec": 131.8,
+          "start_tc": "01:59.500",
+          "end_tc": "02:11.800",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 131.8,
+          "end_sec": 142.4,
+          "start_tc": "02:11.800",
+          "end_tc": "02:22.400",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 107.2,
+          "end_sec": 142.4,
+          "start_tc": "01:47.200",
+          "end_tc": "02:22.400",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 107.2,
+          "end_sec": 119.5,
+          "start_tc": "01:47.200",
+          "end_tc": "01:59.500",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 119.5,
+          "end_sec": 131.8,
+          "start_tc": "01:59.500",
+          "end_tc": "02:11.800",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 131.8,
+          "end_sec": 142.4,
+          "start_tc": "02:11.800",
+          "end_tc": "02:22.400",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 3,
+      "post_rank": 3,
+      "episode": 35,
+      "series_global_score": 8.401,
+      "overall_score": 7.65,
+      "campaign_role": "climax",
+      "continuity_themes": [
+        "secret_truth",
+        "identity_lineage",
+        "central_bond"
+      ],
+      "promo_types": [
+        "cliffhanger",
+        "revelation"
+      ],
+      "labels": [
+        "cliffhanger",
+        "revelation"
+      ],
+      "start_sec": 122.0,
+      "end_sec": 157.5,
+      "duration_sec": 35.5,
+      "start_tc": "02:02.000",
+      "end_tc": "02:37.500",
+      "hook": "\"I survived because the men who came looking for me believed I was already dead.\"",
+      "cliffhanger": "\"The men behind it... are the same men ruling Ashwood now.\"",
+      "why_it_works": "Cliffhanger/Revelation beat (7.65/10): identity/lineage stakes land fast.",
+      "post_why": "Ep 35 · climax: peak tension for invested viewers. Continuity fit 8.34/10, clarity 7.8/10, spine=[secret_truth, identity_lineage, central_bond], tags=[cliffhanger, revelation] (tags not scored), global=8.401.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_3",
+          "start_sec": 122.0,
+          "end_sec": 157.5,
+          "start_tc": "02:02.000",
+          "end_tc": "02:37.500",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_3",
+          "start_sec": 122.0,
+          "end_sec": 130.5,
+          "start_tc": "02:02.000",
+          "end_tc": "02:10.500",
+          "label": "Hook (opening lines) · scene_3",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_3",
+          "start_sec": 130.5,
+          "end_sec": 140.5,
+          "start_tc": "02:10.500",
+          "end_tc": "02:20.500",
+          "label": "Escalation · scene_3",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_3",
+          "start_sec": 140.5,
+          "end_sec": 157.5,
+          "start_tc": "02:20.500",
+          "end_tc": "02:37.500",
+          "label": "Cliffhanger (exit line) · scene_3",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_3",
+          "start_sec": 122.0,
+          "end_sec": 157.5,
+          "start_tc": "02:02.000",
+          "end_tc": "02:37.500",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_3",
+          "start_sec": 122.0,
+          "end_sec": 130.5,
+          "start_tc": "02:02.000",
+          "end_tc": "02:10.500",
+          "label": "Hook (opening lines) · scene_3",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_3",
+          "start_sec": 130.5,
+          "end_sec": 140.5,
+          "start_tc": "02:10.500",
+          "end_tc": "02:20.500",
+          "label": "Escalation · scene_3",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_3",
+          "start_sec": 140.5,
+          "end_sec": 157.5,
+          "start_tc": "02:20.500",
+          "end_tc": "02:37.500",
+          "label": "Cliffhanger (exit line) · scene_3",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_3"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 4,
+      "post_rank": 4,
+      "episode": 44,
+      "series_global_score": 8.485,
+      "overall_score": 8.05,
+      "campaign_role": "payoff",
+      "continuity_themes": [
+        "central_bond",
+        "identity_lineage",
+        "power_disownment"
+      ],
+      "promo_types": [
+        "emotional",
+        "cliffhanger",
+        "revelation",
+        "romantic"
+      ],
+      "labels": [
+        "emotional",
+        "cliffhanger",
+        "revelation",
+        "romantic"
+      ],
+      "start_sec": 28.4,
+      "end_sec": 65.0,
+      "duration_sec": 36.6,
+      "start_tc": "00:28.400",
+      "end_tc": "01:05.000",
+      "hook": "\"Do you know what this did to me?\"",
+      "cliffhanger": "\"Did you?\"",
+      "why_it_works": "Emotional/Cliffhanger beat (8.05/10): identity/lineage stakes land fast; intimacy and danger collide.",
+      "post_why": "Ep 44 · payoff: late-arc resonance — better after acquisition/bonding pack. Continuity fit 9.2/10, clarity 8.9/10, spine=[central_bond, identity_lineage, power_disownment], tags=[emotional, cliffhanger, revelation, romantic] (tags not scored), global=8.485.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_2",
+          "start_sec": 28.4,
+          "end_sec": 65.0,
+          "start_tc": "00:28.400",
+          "end_tc": "01:05.000",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_2",
+          "start_sec": 28.4,
+          "end_sec": 41.2,
+          "start_tc": "00:28.400",
+          "end_tc": "00:41.200",
+          "label": "Hook (opening lines) · scene_2",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_2",
+          "start_sec": 41.2,
+          "end_sec": 53.0,
+          "start_tc": "00:41.200",
+          "end_tc": "00:53.000",
+          "label": "Escalation · scene_2",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_2",
+          "start_sec": 53.0,
+          "end_sec": 65.0,
+          "start_tc": "00:53.000",
+          "end_tc": "01:05.000",
+          "label": "Cliffhanger (exit line) · scene_2",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_2",
+          "start_sec": 28.4,
+          "end_sec": 65.0,
+          "start_tc": "00:28.400",
+          "end_tc": "01:05.000",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_2",
+          "start_sec": 28.4,
+          "end_sec": 41.2,
+          "start_tc": "00:28.400",
+          "end_tc": "00:41.200",
+          "label": "Hook (opening lines) · scene_2",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_2",
+          "start_sec": 41.2,
+          "end_sec": 53.0,
+          "start_tc": "00:41.200",
+          "end_tc": "00:53.000",
+          "label": "Escalation · scene_2",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_2",
+          "start_sec": 53.0,
+          "end_sec": 65.0,
+          "start_tc": "00:53.000",
+          "end_tc": "01:05.000",
+          "label": "Cliffhanger (exit line) · scene_2",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_2"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 5,
+      "post_rank": 5,
+      "episode": 11,
+      "series_global_score": 8.465,
+      "overall_score": 7.42,
+      "campaign_role": "bonding",
+      "continuity_themes": [
+        "central_bond",
+        "violence_peril",
+        "home_garden"
+      ],
+      "promo_types": [
+        "cliffhanger",
+        "revelation"
+      ],
+      "labels": [
+        "cliffhanger",
+        "revelation"
+      ],
+      "start_sec": 18.5,
+      "end_sec": 53.6,
+      "duration_sec": 35.1,
+      "start_tc": "00:18.500",
+      "end_tc": "00:53.600",
+      "hook": "\"Your husband stole my gold pocket watch!\"",
+      "cliffhanger": "...let the constable search.\" \"Search it.",
+      "why_it_works": "Cliffhanger/Revelation beat (7.42/10): high-voltage delivery.",
+      "post_why": "Ep 11 · bonding: locks the central relationship so new viewers care. Continuity fit 10.0/10, clarity 7.1/10, spine=[central_bond, violence_peril, home_garden], tags=[cliffhanger, revelation] (tags not scored), global=8.465.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 18.5,
+          "end_sec": 53.6,
+          "start_tc": "00:18.500",
+          "end_tc": "00:53.600",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 18.5,
+          "end_sec": 28.9,
+          "start_tc": "00:18.500",
+          "end_tc": "00:28.900",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 28.9,
+          "end_sec": 41.1,
+          "start_tc": "00:28.900",
+          "end_tc": "00:41.100",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 41.1,
+          "end_sec": 53.6,
+          "start_tc": "00:41.100",
+          "end_tc": "00:53.600",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 18.5,
+          "end_sec": 53.6,
+          "start_tc": "00:18.500",
+          "end_tc": "00:53.600",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 18.5,
+          "end_sec": 28.9,
+          "start_tc": "00:18.500",
+          "end_tc": "00:28.900",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 28.9,
+          "end_sec": 41.1,
+          "start_tc": "00:28.900",
+          "end_tc": "00:41.100",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 41.1,
+          "end_sec": 53.6,
+          "start_tc": "00:41.100",
+          "end_tc": "00:53.600",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 6,
+      "post_rank": 6,
+      "episode": 35,
+      "series_global_score": 8.531,
+      "overall_score": 8.05,
+      "campaign_role": "climax",
+      "continuity_themes": [
+        "secret_truth",
+        "identity_lineage",
+        "central_bond"
+      ],
+      "promo_types": [
+        "emotional",
+        "cliffhanger",
+        "revelation"
+      ],
+      "labels": [
+        "emotional",
+        "cliffhanger",
+        "revelation"
+      ],
+      "start_sec": 71.5,
+      "end_sec": 125.5,
+      "duration_sec": 54.0,
+      "start_tc": "01:11.500",
+      "end_tc": "02:05.500",
+      "hook": "\"Then how did you survive?\"",
+      "cliffhanger": "\"Then why did they never tell us?\"",
+      "why_it_works": "Emotional/Cliffhanger beat (8.05/10): identity/lineage stakes land fast; open question pulls the next click.",
+      "post_why": "Ep 35 · climax: peak tension for invested viewers. Continuity fit 9.39/10, clarity 7.8/10, spine=[secret_truth, identity_lineage, central_bond], tags=[emotional, cliffhanger, revelation] (tags not scored), global=8.531.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_3",
+          "start_sec": 71.5,
+          "end_sec": 125.5,
+          "start_tc": "01:11.500",
+          "end_tc": "02:05.500",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_3",
+          "start_sec": 71.5,
+          "end_sec": 92.0,
+          "start_tc": "01:11.500",
+          "end_tc": "01:32.000",
+          "label": "Hook (opening lines) · scene_3",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_3",
+          "start_sec": 92.0,
+          "end_sec": 106.0,
+          "start_tc": "01:32.000",
+          "end_tc": "01:46.000",
+          "label": "Escalation · scene_3",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_3",
+          "start_sec": 106.0,
+          "end_sec": 125.5,
+          "start_tc": "01:46.000",
+          "end_tc": "02:05.500",
+          "label": "Cliffhanger (exit line) · scene_3",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_3",
+          "start_sec": 71.5,
+          "end_sec": 125.5,
+          "start_tc": "01:11.500",
+          "end_tc": "02:05.500",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_3",
+          "start_sec": 71.5,
+          "end_sec": 92.0,
+          "start_tc": "01:11.500",
+          "end_tc": "01:32.000",
+          "label": "Hook (opening lines) · scene_3",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_3",
+          "start_sec": 92.0,
+          "end_sec": 106.0,
+          "start_tc": "01:32.000",
+          "end_tc": "01:46.000",
+          "label": "Escalation · scene_3",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_3",
+          "start_sec": 106.0,
+          "end_sec": 125.5,
+          "start_tc": "01:46.000",
+          "end_tc": "02:05.500",
+          "label": "Cliffhanger (exit line) · scene_3",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_3"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 7,
+      "post_rank": 7,
+      "episode": 2,
+      "series_global_score": 8.383,
+      "overall_score": 7.39,
+      "campaign_role": "acquisition",
+      "continuity_themes": [
+        "wedding_betrayal",
+        "rival_court",
+        "identity_lineage"
+      ],
+      "promo_types": [
+        "emotional",
+        "revelation",
+        "romantic",
+        "thrilling"
+      ],
+      "labels": [
+        "emotional",
+        "revelation",
+        "romantic",
+        "thrilling"
+      ],
+      "start_sec": 34.3,
+      "end_sec": 69.3,
+      "duration_sec": 35.0,
+      "start_tc": "00:34.300",
+      "end_tc": "01:09.300",
+      "hook": "\"Surely you will not let him humiliate me like this?\"",
+      "cliffhanger": "\"You should be grateful you're at least allowed to attend the wedding.\"",
+      "why_it_works": "Emotional/Revelation beat (7.39/10): identity/lineage stakes land fast; betrayal/power turn is instantly readable cold.",
+      "post_why": "Ep 2 · acquisition: cold-open fuel — works without binge homework. Continuity fit 10.0/10, clarity 8.9/10, spine=[wedding_betrayal, rival_court, identity_lineage], tags=[emotional, revelation, romantic, thrilling] (tags not scored), global=8.383.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 34.3,
+          "end_sec": 69.3,
+          "start_tc": "00:34.300",
+          "end_tc": "01:09.300",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 34.3,
+          "end_sec": 51.5,
+          "start_tc": "00:34.300",
+          "end_tc": "00:51.500",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 51.5,
+          "end_sec": 60.5,
+          "start_tc": "00:51.500",
+          "end_tc": "01:00.500",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 60.5,
+          "end_sec": 69.3,
+          "start_tc": "01:00.500",
+          "end_tc": "01:09.300",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 34.3,
+          "end_sec": 69.3,
+          "start_tc": "00:34.300",
+          "end_tc": "01:09.300",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 34.3,
+          "end_sec": 51.5,
+          "start_tc": "00:34.300",
+          "end_tc": "00:51.500",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 51.5,
+          "end_sec": 60.5,
+          "start_tc": "00:51.500",
+          "end_tc": "01:00.500",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 60.5,
+          "end_sec": 69.3,
+          "start_tc": "01:00.500",
+          "end_tc": "01:09.300",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 8,
+      "post_rank": 8,
+      "episode": 9,
+      "series_global_score": 8.149,
+      "overall_score": 7.22,
+      "campaign_role": "bonding",
+      "continuity_themes": [
+        "identity_lineage",
+        "power_disownment",
+        "wedding_betrayal"
+      ],
+      "promo_types": [
+        "cliffhanger"
+      ],
+      "labels": [
+        "cliffhanger"
+      ],
+      "start_sec": 83.8,
+      "end_sec": 115.5,
+      "duration_sec": 31.7,
+      "start_tc": "01:23.800",
+      "end_tc": "01:55.500",
+      "hook": "\"Then we will face it together.\"",
+      "cliffhanger": "\"Impossible.\"",
+      "why_it_works": "Cliffhanger beat (7.22/10): identity/lineage stakes land fast.",
+      "post_why": "Ep 9 · bonding: locks the central relationship so new viewers care. Continuity fit 10.0/10, clarity 7.4/10, spine=[identity_lineage, power_disownment, wedding_betrayal], tags=[cliffhanger] (tags not scored), global=8.149.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_2",
+          "start_sec": 83.8,
+          "end_sec": 115.5,
+          "start_tc": "01:23.800",
+          "end_tc": "01:55.500",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 83.8,
+          "end_sec": 83.8,
+          "start_tc": "01:23.800",
+          "end_tc": "01:23.800",
+          "label": "Hook · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "cliffhanger",
+          "scene_id": "scene_2",
+          "start_sec": 83.8,
+          "end_sec": 115.5,
+          "start_tc": "01:23.800",
+          "end_tc": "01:55.500",
+          "label": "Cliffhanger · scene_2",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_2",
+          "start_sec": 83.8,
+          "end_sec": 115.5,
+          "start_tc": "01:23.800",
+          "end_tc": "01:55.500",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 83.8,
+          "end_sec": 83.8,
+          "start_tc": "01:23.800",
+          "end_tc": "01:23.800",
+          "label": "Hook · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "cliffhanger",
+          "scene_id": "scene_2",
+          "start_sec": 83.8,
+          "end_sec": 115.5,
+          "start_tc": "01:23.800",
+          "end_tc": "01:55.500",
+          "label": "Cliffhanger · scene_2",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_2"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 9,
+      "post_rank": 9,
+      "episode": 21,
+      "series_global_score": 8.46,
+      "overall_score": 7.86,
+      "campaign_role": "escalation",
+      "continuity_themes": [
+        "identity_lineage",
+        "violence_peril",
+        "secret_truth"
+      ],
+      "promo_types": [
+        "emotional",
+        "cliffhanger"
+      ],
+      "labels": [
+        "emotional",
+        "cliffhanger"
+      ],
+      "start_sec": 76.0,
+      "end_sec": 114.0,
+      "duration_sec": 38.0,
+      "start_tc": "01:16.000",
+      "end_tc": "01:54.000",
+      "hook": "\"Keep him warm. Give him three drops of this coltsfoot tea every morning.\"",
+      "cliffhanger": "\"Inside that massive house with all their wealth, she is fading to nothing, and no one can stop it.\"",
+      "why_it_works": "Emotional/Cliffhanger beat (7.86/10): identity/lineage stakes land fast.",
+      "post_why": "Ep 21 · escalation: raises stakes mid-arc; binge bait after the open pack. Continuity fit 10.0/10, clarity 8.5/10, spine=[identity_lineage, violence_peril, secret_truth], tags=[emotional, cliffhanger] (tags not scored), global=8.46.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_3",
+          "start_sec": 76.0,
+          "end_sec": 114.0,
+          "start_tc": "01:16.000",
+          "end_tc": "01:54.000",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_3",
+          "start_sec": 76.0,
+          "end_sec": 90.8,
+          "start_tc": "01:16.000",
+          "end_tc": "01:30.800",
+          "label": "Hook (opening lines) · scene_3",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_3",
+          "start_sec": 90.8,
+          "end_sec": 99.2,
+          "start_tc": "01:30.800",
+          "end_tc": "01:39.200",
+          "label": "Escalation · scene_3",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_3",
+          "start_sec": 99.2,
+          "end_sec": 114.0,
+          "start_tc": "01:39.200",
+          "end_tc": "01:54.000",
+          "label": "Cliffhanger (exit line) · scene_3",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_3",
+          "start_sec": 76.0,
+          "end_sec": 114.0,
+          "start_tc": "01:16.000",
+          "end_tc": "01:54.000",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_3",
+          "start_sec": 76.0,
+          "end_sec": 90.8,
+          "start_tc": "01:16.000",
+          "end_tc": "01:30.800",
+          "label": "Hook (opening lines) · scene_3",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_3",
+          "start_sec": 90.8,
+          "end_sec": 99.2,
+          "start_tc": "01:30.800",
+          "end_tc": "01:39.200",
+          "label": "Escalation · scene_3",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_3",
+          "start_sec": 99.2,
+          "end_sec": 114.0,
+          "start_tc": "01:39.200",
+          "end_tc": "01:54.000",
+          "label": "Cliffhanger (exit line) · scene_3",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_3"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 10,
+      "post_rank": 10,
+      "episode": 36,
+      "series_global_score": 8.073,
+      "overall_score": 7.22,
+      "campaign_role": "climax",
+      "continuity_themes": [
+        "power_disownment",
+        "wedding_betrayal",
+        "identity_lineage"
+      ],
+      "promo_types": [
+        "cliffhanger"
+      ],
+      "labels": [
+        "cliffhanger"
+      ],
+      "start_sec": 60.9,
+      "end_sec": 99.0,
+      "duration_sec": 38.1,
+      "start_tc": "01:00.900",
+      "end_tc": "01:39.000",
+      "hook": "\"I trusted them.\"",
+      "cliffhanger": "\"Then where is she?\"",
+      "why_it_works": "Cliffhanger beat (7.22/10): identity/lineage stakes land fast; intimacy and danger collide.",
+      "post_why": "Ep 36 · climax: peak tension for invested viewers. Continuity fit 10.0/10, clarity 7.8/10, spine=[power_disownment, wedding_betrayal, identity_lineage], tags=[cliffhanger] (tags not scored), global=8.073.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 60.9,
+          "end_sec": 99.0,
+          "start_tc": "01:00.900",
+          "end_tc": "01:39.000",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 60.9,
+          "end_sec": 74.7,
+          "start_tc": "01:00.900",
+          "end_tc": "01:14.700",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 74.7,
+          "end_sec": 85.5,
+          "start_tc": "01:14.700",
+          "end_tc": "01:25.500",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 85.5,
+          "end_sec": 99.0,
+          "start_tc": "01:25.500",
+          "end_tc": "01:39.000",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 60.9,
+          "end_sec": 99.0,
+          "start_tc": "01:00.900",
+          "end_tc": "01:39.000",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 60.9,
+          "end_sec": 74.7,
+          "start_tc": "01:00.900",
+          "end_tc": "01:14.700",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 74.7,
+          "end_sec": 85.5,
+          "start_tc": "01:14.700",
+          "end_tc": "01:25.500",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 85.5,
+          "end_sec": 99.0,
+          "start_tc": "01:25.500",
+          "end_tc": "01:39.000",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:top_10_slot",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 11,
+      "post_rank": 11,
+      "episode": 32,
+      "series_global_score": 8.051,
+      "overall_score": 7.22,
+      "campaign_role": "climax",
+      "continuity_themes": [
+        "central_bond",
+        "rival_court",
+        "identity_lineage"
+      ],
+      "promo_types": [
+        "cliffhanger"
+      ],
+      "labels": [
+        "cliffhanger"
+      ],
+      "start_sec": 41.0,
+      "end_sec": 77.6,
+      "duration_sec": 36.6,
+      "start_tc": "00:41.000",
+      "end_tc": "01:17.600",
+      "hook": "\"No. Your cruelty does that for me.\"",
+      "cliffhanger": "\"I was freed. And I found a man who never asked me what I was worth.\"",
+      "why_it_works": "Cliffhanger beat (7.22/10): clean hook→pressure→turn inside a tight window.",
+      "post_why": "Ep 32 · climax: peak tension for invested viewers. Continuity fit 10.0/10, clarity 7.1/10, spine=[central_bond, rival_court, identity_lineage], tags=[cliffhanger] (tags not scored), global=8.051.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 41.0,
+          "end_sec": 77.6,
+          "start_tc": "00:41.000",
+          "end_tc": "01:17.600",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 41.0,
+          "end_sec": 52.5,
+          "start_tc": "00:41.000",
+          "end_tc": "00:52.500",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 52.5,
+          "end_sec": 67.0,
+          "start_tc": "00:52.500",
+          "end_tc": "01:07.000",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 67.0,
+          "end_sec": 77.6,
+          "start_tc": "01:07.000",
+          "end_tc": "01:17.600",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 41.0,
+          "end_sec": 77.6,
+          "start_tc": "00:41.000",
+          "end_tc": "01:17.600",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 41.0,
+          "end_sec": 52.5,
+          "start_tc": "00:41.000",
+          "end_tc": "00:52.500",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 52.5,
+          "end_sec": 67.0,
+          "start_tc": "00:52.500",
+          "end_tc": "01:07.000",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 67.0,
+          "end_sec": 77.6,
+          "start_tc": "01:07.000",
+          "end_tc": "01:17.600",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:global>=7.85",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 12,
+      "post_rank": 12,
+      "episode": 3,
+      "series_global_score": 8.318,
+      "overall_score": 7.86,
+      "campaign_role": "acquisition",
+      "continuity_themes": [
+        "rival_court",
+        "wedding_betrayal",
+        "identity_lineage"
+      ],
+      "promo_types": [
+        "emotional",
+        "cliffhanger",
+        "romantic"
+      ],
+      "labels": [
+        "emotional",
+        "cliffhanger",
+        "romantic"
+      ],
+      "start_sec": 108.8,
+      "end_sec": 145.75,
+      "duration_sec": 37.0,
+      "start_tc": "01:48.800",
+      "end_tc": "02:25.750",
+      "hook": "\"...to remember your worth.\"",
+      "cliffhanger": "\"Lady Juliana... accept my hand.\"",
+      "why_it_works": "Emotional/Cliffhanger beat (7.86/10): identity/lineage stakes land fast.",
+      "post_why": "Ep 3 · acquisition: cold-open fuel — works without binge homework. Continuity fit 7.49/10, clarity 8.2/10, spine=[rival_court, wedding_betrayal, identity_lineage], tags=[emotional, cliffhanger, romantic] (tags not scored), global=8.318.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_3",
+          "start_sec": 108.8,
+          "end_sec": 145.75,
+          "start_tc": "01:48.800",
+          "end_tc": "02:25.750",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_3",
+          "start_sec": 108.8,
+          "end_sec": 117.9,
+          "start_tc": "01:48.800",
+          "end_tc": "01:57.900",
+          "label": "Hook (opening lines) · scene_3",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_3",
+          "start_sec": 117.9,
+          "end_sec": 129.9,
+          "start_tc": "01:57.900",
+          "end_tc": "02:09.900",
+          "label": "Escalation · scene_3",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_3",
+          "start_sec": 129.9,
+          "end_sec": 145.75,
+          "start_tc": "02:09.900",
+          "end_tc": "02:25.750",
+          "label": "Cliffhanger (exit line) · scene_3",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_3",
+          "start_sec": 108.8,
+          "end_sec": 145.75,
+          "start_tc": "01:48.800",
+          "end_tc": "02:25.750",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_3",
+          "start_sec": 108.8,
+          "end_sec": 117.9,
+          "start_tc": "01:48.800",
+          "end_tc": "01:57.900",
+          "label": "Hook (opening lines) · scene_3",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_3",
+          "start_sec": 117.9,
+          "end_sec": 129.9,
+          "start_tc": "01:57.900",
+          "end_tc": "02:09.900",
+          "label": "Escalation · scene_3",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_3",
+          "start_sec": 129.9,
+          "end_sec": 145.75,
+          "start_tc": "02:09.900",
+          "end_tc": "02:25.750",
+          "label": "Cliffhanger (exit line) · scene_3",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_3"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:global>=7.85",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 13,
+      "post_rank": 13,
+      "episode": 14,
+      "series_global_score": 8.337,
+      "overall_score": 7.86,
+      "campaign_role": "bonding",
+      "continuity_themes": [
+        "violence_peril",
+        "central_bond",
+        "home_garden"
+      ],
+      "promo_types": [
+        "emotional",
+        "cliffhanger",
+        "romantic",
+        "thrilling"
+      ],
+      "labels": [
+        "emotional",
+        "cliffhanger",
+        "romantic",
+        "thrilling"
+      ],
+      "start_sec": 1.0,
+      "end_sec": 38.5,
+      "duration_sec": 37.5,
+      "start_tc": "00:01.000",
+      "end_tc": "00:38.500",
+      "hook": "I found it.",
+      "cliffhanger": "\"You should never have had to bleed for me.\"",
+      "why_it_works": "Emotional/Cliffhanger beat (7.86/10): betrayal/power turn is instantly readable cold; intimacy and danger collide.",
+      "post_why": "Ep 14 · bonding: locks the central relationship so new viewers care. Continuity fit 8.75/10, clarity 8.9/10, spine=[violence_peril, central_bond, home_garden], tags=[emotional, cliffhanger, romantic, thrilling] (tags not scored), global=8.337.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 1.0,
+          "end_sec": 38.5,
+          "start_tc": "00:01.000",
+          "end_tc": "00:38.500",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 1.0,
+          "end_sec": 13.5,
+          "start_tc": "00:01.000",
+          "end_tc": "00:13.500",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 13.5,
+          "end_sec": 25.5,
+          "start_tc": "00:13.500",
+          "end_tc": "00:25.500",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 25.5,
+          "end_sec": 38.5,
+          "start_tc": "00:25.500",
+          "end_tc": "00:38.500",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 1.0,
+          "end_sec": 38.5,
+          "start_tc": "00:01.000",
+          "end_tc": "00:38.500",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 1.0,
+          "end_sec": 13.5,
+          "start_tc": "00:01.000",
+          "end_tc": "00:13.500",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 13.5,
+          "end_sec": 25.5,
+          "start_tc": "00:13.500",
+          "end_tc": "00:25.500",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 25.5,
+          "end_sec": 38.5,
+          "start_tc": "00:25.500",
+          "end_tc": "00:38.500",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:global>=7.85",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 14,
+      "post_rank": 14,
+      "episode": 36,
+      "series_global_score": 8.226,
+      "overall_score": 7.86,
+      "campaign_role": "climax",
+      "continuity_themes": [
+        "power_disownment",
+        "wedding_betrayal",
+        "identity_lineage"
+      ],
+      "promo_types": [
+        "emotional",
+        "cliffhanger"
+      ],
+      "labels": [
+        "emotional",
+        "cliffhanger"
+      ],
+      "start_sec": 41.6,
+      "end_sec": 78.1,
+      "duration_sec": 36.5,
+      "start_tc": "00:41.600",
+      "end_tc": "01:18.100",
+      "hook": "\"They declared me dead.\"",
+      "cliffhanger": "\"She went into Ashbourne Manor to save you. She never came back.\"",
+      "why_it_works": "Emotional/Cliffhanger beat (7.86/10): identity/lineage stakes land fast.",
+      "post_why": "Ep 36 · climax: peak tension for invested viewers. Continuity fit 10.0/10, clarity 7.2/10, spine=[power_disownment, wedding_betrayal, identity_lineage], tags=[emotional, cliffhanger] (tags not scored), global=8.226.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 41.6,
+          "end_sec": 78.1,
+          "start_tc": "00:41.600",
+          "end_tc": "01:18.100",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 41.6,
+          "end_sec": 51.8,
+          "start_tc": "00:41.600",
+          "end_tc": "00:51.800",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 51.8,
+          "end_sec": 63.8,
+          "start_tc": "00:51.800",
+          "end_tc": "01:03.800",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 63.8,
+          "end_sec": 78.1,
+          "start_tc": "01:03.800",
+          "end_tc": "01:18.100",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 41.6,
+          "end_sec": 78.1,
+          "start_tc": "00:41.600",
+          "end_tc": "01:18.100",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 41.6,
+          "end_sec": 51.8,
+          "start_tc": "00:41.600",
+          "end_tc": "00:51.800",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 51.8,
+          "end_sec": 63.8,
+          "start_tc": "00:51.800",
+          "end_tc": "01:03.800",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 63.8,
+          "end_sec": 78.1,
+          "start_tc": "01:03.800",
+          "end_tc": "01:18.100",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:global>=7.85",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 15,
+      "post_rank": 15,
+      "episode": 5,
+      "series_global_score": 7.486,
+      "overall_score": 6.56,
+      "campaign_role": "acquisition",
+      "continuity_themes": [
+        "identity_lineage",
+        "power_disownment",
+        "wedding_betrayal"
+      ],
+      "promo_types": [
+        "conflict"
+      ],
+      "labels": [
+        "conflict"
+      ],
+      "start_sec": 10.5,
+      "end_sec": 46.0,
+      "duration_sec": 35.5,
+      "start_tc": "00:10.500",
+      "end_tc": "00:46.000",
+      "hook": "\"The vows are spoken, Father. I am his wife now.\"",
+      "cliffhanger": "You chose that long before today.",
+      "why_it_works": "Conflict beat (6.56/10): identity/lineage stakes land fast.",
+      "post_why": "Ep 5 · acquisition: cold-open fuel — works without binge homework. Continuity fit 8.56/10, clarity 7.5/10, spine=[identity_lineage, power_disownment, wedding_betrayal], tags=[conflict] (tags not scored), global=7.486.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 10.5,
+          "end_sec": 46.0,
+          "start_tc": "00:10.500",
+          "end_tc": "00:46.000",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 10.5,
+          "end_sec": 20.8,
+          "start_tc": "00:10.500",
+          "end_tc": "00:20.800",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 20.8,
+          "end_sec": 36.5,
+          "start_tc": "00:20.800",
+          "end_tc": "00:36.500",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 36.5,
+          "end_sec": 46.0,
+          "start_tc": "00:36.500",
+          "end_tc": "00:46.000",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 10.5,
+          "end_sec": 46.0,
+          "start_tc": "00:10.500",
+          "end_tc": "00:46.000",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 10.5,
+          "end_sec": 20.8,
+          "start_tc": "00:10.500",
+          "end_tc": "00:20.800",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 20.8,
+          "end_sec": 36.5,
+          "start_tc": "00:20.800",
+          "end_tc": "00:36.500",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 36.5,
+          "end_sec": 46.0,
+          "start_tc": "00:36.500",
+          "end_tc": "00:46.000",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "marketer_protected": false,
+      "marketer_decision": "KEEP:gates_pass",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 16,
+      "post_rank": 16,
+      "episode": 11,
+      "series_global_score": 8.119,
+      "overall_score": 7.22,
+      "campaign_role": "bonding",
+      "continuity_themes": [
+        "central_bond",
+        "violence_peril",
+        "rival_court"
+      ],
+      "promo_types": [
+        "cliffhanger"
+      ],
+      "labels": [
+        "cliffhanger"
+      ],
+      "start_sec": 0.0,
+      "end_sec": 32.8,
+      "duration_sec": 32.8,
+      "start_tc": "00:00.000",
+      "end_tc": "00:32.800",
+      "hook": "\"Gerald? What are you doing here?\"",
+      "cliffhanger": "\"Of course you would defend him. You married a beggar!\"",
+      "why_it_works": "Cliffhanger beat (7.22/10): open question pulls the next click; high-voltage delivery.",
+      "post_why": "Ep 11 · bonding: locks the central relationship so new viewers care. Continuity fit 10.0/10, clarity 7.1/10, spine=[central_bond, violence_peril, rival_court], tags=[cliffhanger] (tags not scored), global=8.119.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 0.0,
+          "end_sec": 32.8,
+          "start_tc": "00:00.000",
+          "end_tc": "00:32.800",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 0.0,
+          "end_sec": 10.7,
+          "start_tc": "00:00.000",
+          "end_tc": "00:10.700",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 10.7,
+          "end_sec": 22.0,
+          "start_tc": "00:10.700",
+          "end_tc": "00:22.000",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 22.0,
+          "end_sec": 32.8,
+          "start_tc": "00:22.000",
+          "end_tc": "00:32.800",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 0.0,
+          "end_sec": 32.8,
+          "start_tc": "00:00.000",
+          "end_tc": "00:32.800",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 0.0,
+          "end_sec": 10.7,
+          "start_tc": "00:00.000",
+          "end_tc": "00:10.700",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 10.7,
+          "end_sec": 22.0,
+          "start_tc": "00:10.700",
+          "end_tc": "00:22.000",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 22.0,
+          "end_sec": 32.8,
+          "start_tc": "00:22.000",
+          "end_tc": "00:32.800",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:global>=7.85",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 17,
+      "post_rank": 17,
+      "episode": 33,
+      "series_global_score": 8.208,
+      "overall_score": 7.24,
+      "campaign_role": "climax",
+      "continuity_themes": [
+        "identity_lineage",
+        "central_bond",
+        "violence_peril"
+      ],
+      "promo_types": [
+        "cliffhanger",
+        "revelation"
+      ],
+      "labels": [
+        "cliffhanger",
+        "revelation"
+      ],
+      "start_sec": 81.0,
+      "end_sec": 144.0,
+      "duration_sec": 63.0,
+      "start_tc": "01:21.000",
+      "end_tc": "02:24.000",
+      "hook": "She drew something around the bed, did she not?",
+      "cliffhanger": "\"I never said she was a witch!\"",
+      "why_it_works": "Cliffhanger/Revelation beat (7.24/10): identity/lineage stakes land fast; open question pulls the next click.",
+      "post_why": "Ep 33 · climax: peak tension for invested viewers. Continuity fit 10.0/10, clarity 7.0/10, spine=[identity_lineage, central_bond, violence_peril], tags=[cliffhanger, revelation] (tags not scored), global=8.208.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 81.0,
+          "end_sec": 144.0,
+          "start_tc": "01:21.000",
+          "end_tc": "02:24.000",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 81.0,
+          "end_sec": 100.0,
+          "start_tc": "01:21.000",
+          "end_tc": "01:40.000",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 100.0,
+          "end_sec": 123.5,
+          "start_tc": "01:40.000",
+          "end_tc": "02:03.500",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 123.5,
+          "end_sec": 144.0,
+          "start_tc": "02:03.500",
+          "end_tc": "02:24.000",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 81.0,
+          "end_sec": 144.0,
+          "start_tc": "01:21.000",
+          "end_tc": "02:24.000",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 81.0,
+          "end_sec": 100.0,
+          "start_tc": "01:21.000",
+          "end_tc": "01:40.000",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 100.0,
+          "end_sec": 123.5,
+          "start_tc": "01:40.000",
+          "end_tc": "02:03.500",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 123.5,
+          "end_sec": 144.0,
+          "start_tc": "02:03.500",
+          "end_tc": "02:24.000",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:global>=7.85",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 18,
+      "post_rank": 18,
+      "episode": 15,
+      "series_global_score": 8.015,
+      "overall_score": 7.39,
+      "campaign_role": "bonding",
+      "continuity_themes": [
+        "central_bond",
+        "home_garden",
+        "violence_peril"
+      ],
+      "promo_types": [
+        "emotional",
+        "revelation",
+        "romantic",
+        "thrilling"
+      ],
+      "labels": [
+        "emotional",
+        "revelation",
+        "romantic",
+        "thrilling"
+      ],
+      "start_sec": 8.5,
+      "end_sec": 46.4,
+      "duration_sec": 37.9,
+      "start_tc": "00:08.500",
+      "end_tc": "00:46.400",
+      "hook": "\"Stop! What are you doing?!\"",
+      "cliffhanger": "\"Get out of the way!\"",
+      "why_it_works": "Emotional/Revelation beat (7.39/10): identity/lineage stakes land fast; physical peril raises binge urgency.",
+      "post_why": "Ep 15 · bonding: locks the central relationship so new viewers care. Continuity fit 10.0/10, clarity 7.5/10, spine=[central_bond, home_garden, violence_peril], tags=[emotional, revelation, romantic, thrilling] (tags not scored), global=8.015.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 8.5,
+          "end_sec": 46.4,
+          "start_tc": "00:08.500",
+          "end_tc": "00:46.400",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 8.5,
+          "end_sec": 22.5,
+          "start_tc": "00:08.500",
+          "end_tc": "00:22.500",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 22.5,
+          "end_sec": 34.0,
+          "start_tc": "00:22.500",
+          "end_tc": "00:34.000",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 34.0,
+          "end_sec": 46.4,
+          "start_tc": "00:34.000",
+          "end_tc": "00:46.400",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 8.5,
+          "end_sec": 46.4,
+          "start_tc": "00:08.500",
+          "end_tc": "00:46.400",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 8.5,
+          "end_sec": 22.5,
+          "start_tc": "00:08.500",
+          "end_tc": "00:22.500",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 22.5,
+          "end_sec": 34.0,
+          "start_tc": "00:22.500",
+          "end_tc": "00:34.000",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 34.0,
+          "end_sec": 46.4,
+          "start_tc": "00:34.000",
+          "end_tc": "00:46.400",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:global>=7.85",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 19,
+      "post_rank": 19,
+      "episode": 26,
+      "series_global_score": 7.936,
+      "overall_score": 7.6,
+      "campaign_role": "escalation",
+      "continuity_themes": [
+        "violence_peril",
+        "secret_truth",
+        "central_bond"
+      ],
+      "promo_types": [
+        "emotional",
+        "revelation"
+      ],
+      "labels": [
+        "emotional",
+        "revelation"
+      ],
+      "start_sec": 30.8,
+      "end_sec": 67.0,
+      "duration_sec": 36.2,
+      "start_tc": "00:30.800",
+      "end_tc": "01:07.000",
+      "hook": "\"You... you are no common servant. You took Catherine's whip for me the other day.\"",
+      "cliffhanger": "\"Yes. But the charcoal is fighting the poison. You are safe now.\"",
+      "why_it_works": "Emotional/Revelation beat (7.6/10): identity/lineage stakes land fast.",
+      "post_why": "Ep 26 · escalation: raises stakes mid-arc; binge bait after the open pack. Continuity fit 8.16/10, clarity 7.1/10, spine=[violence_peril, secret_truth, central_bond], tags=[emotional, revelation] (tags not scored), global=7.936.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 30.8,
+          "end_sec": 67.0,
+          "start_tc": "00:30.800",
+          "end_tc": "01:07.000",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 30.8,
+          "end_sec": 39.8,
+          "start_tc": "00:30.800",
+          "end_tc": "00:39.800",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 39.8,
+          "end_sec": 55.8,
+          "start_tc": "00:39.800",
+          "end_tc": "00:55.800",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 55.8,
+          "end_sec": 67.0,
+          "start_tc": "00:55.800",
+          "end_tc": "01:07.000",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 30.8,
+          "end_sec": 67.0,
+          "start_tc": "00:30.800",
+          "end_tc": "01:07.000",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 30.8,
+          "end_sec": 39.8,
+          "start_tc": "00:30.800",
+          "end_tc": "00:39.800",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 39.8,
+          "end_sec": 55.8,
+          "start_tc": "00:39.800",
+          "end_tc": "00:55.800",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 55.8,
+          "end_sec": 67.0,
+          "start_tc": "00:55.800",
+          "end_tc": "01:07.000",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:global>=7.85",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 20,
+      "post_rank": 20,
+      "episode": 5,
+      "series_global_score": 7.542,
+      "overall_score": 6.57,
+      "campaign_role": "acquisition",
+      "continuity_themes": [
+        "identity_lineage",
+        "wedding_betrayal",
+        "power_disownment"
+      ],
+      "promo_types": [
+        "conflict"
+      ],
+      "labels": [
+        "conflict"
+      ],
+      "start_sec": 0.0,
+      "end_sec": 15.8,
+      "duration_sec": 15.8,
+      "start_tc": "00:00.000",
+      "end_tc": "00:15.800",
+      "hook": "You will not leave this church carrying the Ashcroft name.",
+      "cliffhanger": "\"The vows are spoken, Father. I am his wife now.\"",
+      "why_it_works": "Conflict beat (6.57/10): identity/lineage stakes land fast; betrayal/power turn is instantly readable cold.",
+      "post_why": "Ep 5 · acquisition: cold-open fuel — works without binge homework. Continuity fit 9.79/10, clarity 7.6/10, spine=[identity_lineage, wedding_betrayal, power_disownment], tags=[conflict] (tags not scored), global=7.542.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 0.0,
+          "end_sec": 15.8,
+          "start_tc": "00:00.000",
+          "end_tc": "00:15.800",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 0.0,
+          "end_sec": 6.0,
+          "start_tc": "00:00.000",
+          "end_tc": "00:06.000",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 6.0,
+          "end_sec": 10.5,
+          "start_tc": "00:06.000",
+          "end_tc": "00:10.500",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 10.5,
+          "end_sec": 15.8,
+          "start_tc": "00:10.500",
+          "end_tc": "00:15.800",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 0.0,
+          "end_sec": 15.8,
+          "start_tc": "00:00.000",
+          "end_tc": "00:15.800",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 0.0,
+          "end_sec": 6.0,
+          "start_tc": "00:00.000",
+          "end_tc": "00:06.000",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 6.0,
+          "end_sec": 10.5,
+          "start_tc": "00:06.000",
+          "end_tc": "00:10.500",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 10.5,
+          "end_sec": 15.8,
+          "start_tc": "00:10.500",
+          "end_tc": "00:15.800",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "marketer_protected": false,
+      "marketer_decision": "KEEP:gates_pass",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    },
+    {
+      "campaign_rank": 21,
+      "post_rank": 21,
+      "episode": 31,
+      "series_global_score": 7.901,
+      "overall_score": 7.22,
+      "campaign_role": "climax",
+      "continuity_themes": [
+        "identity_lineage",
+        "violence_peril",
+        "rival_court"
+      ],
+      "promo_types": [
+        "cliffhanger"
+      ],
+      "labels": [
+        "cliffhanger"
+      ],
+      "start_sec": 21.0,
+      "end_sec": 59.0,
+      "duration_sec": 38.0,
+      "start_tc": "00:21.000",
+      "end_tc": "00:59.000",
+      "hook": "Everyone saw you. Everyone watched him chose Clarisse.",
+      "cliffhanger": "\"And everyone watched you walk away alone.\"",
+      "why_it_works": "Cliffhanger beat (7.22/10): betrayal/power turn is instantly readable cold.",
+      "post_why": "Ep 31 · climax: peak tension for invested viewers. Continuity fit 9.43/10, clarity 6.4/10, spine=[identity_lineage, violence_peril, rival_court], tags=[cliffhanger] (tags not scored), global=7.901.",
+      "pipeline_mode": "hybrid",
+      "score_source": "",
+      "mini_arc_mode": "",
+      "segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 21.0,
+          "end_sec": 59.0,
+          "start_tc": "00:21.000",
+          "end_tc": "00:59.000",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 21.0,
+          "end_sec": 34.8,
+          "start_tc": "00:21.000",
+          "end_tc": "00:34.800",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 34.8,
+          "end_sec": 54.8,
+          "start_tc": "00:34.800",
+          "end_tc": "00:54.800",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 54.8,
+          "end_sec": 59.0,
+          "start_tc": "00:54.800",
+          "end_tc": "00:59.000",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "ordered_segments": [
+        {
+          "index": 1,
+          "role": "full_window",
+          "scene_id": "scene_1",
+          "start_sec": 21.0,
+          "end_sec": 59.0,
+          "start_tc": "00:21.000",
+          "end_tc": "00:59.000",
+          "label": "Master in–out (cut this whole promo)",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 2,
+          "role": "hook",
+          "scene_id": "scene_1",
+          "start_sec": 21.0,
+          "end_sec": 34.8,
+          "start_tc": "00:21.000",
+          "end_tc": "00:34.800",
+          "label": "Hook (opening lines) · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 3,
+          "role": "rise",
+          "scene_id": "scene_1",
+          "start_sec": 34.8,
+          "end_sec": 54.8,
+          "start_tc": "00:34.800",
+          "end_tc": "00:54.800",
+          "label": "Escalation · scene_1",
+          "dialogue_preview": ""
+        },
+        {
+          "index": 4,
+          "role": "cliffhanger",
+          "scene_id": "scene_1",
+          "start_sec": 54.8,
+          "end_sec": 59.0,
+          "start_tc": "00:54.800",
+          "end_tc": "00:59.000",
+          "label": "Cliffhanger (exit line) · scene_1",
+          "dialogue_preview": ""
+        }
+      ],
+      "scene_ids": [
+        "scene_1"
+      ],
+      "marketer_protected": true,
+      "marketer_decision": "PROTECTED:global>=7.85",
+      "logline": "",
+      "id": "",
+      "raw_scores": {}
+    }
+  ]
+}

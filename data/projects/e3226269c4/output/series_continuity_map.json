@@ -1,0 +1,1348 @@
+{
+  "name": "Series Continuity Map",
+  "slug": "series_continuity_map",
+  "version": 1,
+  "total_episodes": 50,
+  "episodes_indexed": 50,
+  "series_one_liner": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fiancé Gerald abandons her at the altar for her cruel sister C Dominant threads: Central bond (Juliana ↔ Alexander), Wedding / betrayal, Identity / lineage, Violence / peril.",
+  "principals": [
+    {
+      "name": "Juliana",
+      "mentions": 692
+    },
+    {
+      "name": "Alexander",
+      "mentions": 334
+    },
+    {
+      "name": "Catherine",
+      "mentions": 203
+    },
+    {
+      "name": "Gerald",
+      "mentions": 74
+    },
+    {
+      "name": "Clarissa",
+      "mentions": 48
+    },
+    {
+      "name": "Agnes",
+      "mentions": 20
+    },
+    {
+      "name": "Matriarch",
+      "mentions": 17
+    }
+  ],
+  "spine_themes": [
+    {
+      "id": "central_bond",
+      "label": "Central bond (Juliana ↔ Alexander)",
+      "spine_weight": 0.9,
+      "corpus_hits": 132,
+      "keywords": [
+        "alexander",
+        "juliana",
+        "embrace",
+        "kiss",
+        "love",
+        "protect",
+        "hearth",
+        "hold me"
+      ]
+    },
+    {
+      "id": "wedding_betrayal",
+      "label": "Wedding / betrayal",
+      "spine_weight": 1.0,
+      "corpus_hits": 99,
+      "keywords": [
+        "bridal",
+        "wedding",
+        "cathedral",
+        "betray",
+        "groom",
+        "altar",
+        "gown",
+        "fiancé"
+      ]
+    },
+    {
+      "id": "identity_lineage",
+      "label": "Identity / lineage",
+      "spine_weight": 0.95,
+      "corpus_hits": 100,
+      "keywords": [
+        "father",
+        "mother",
+        "daughter",
+        "duke",
+        "ducal",
+        "heir",
+        "blood",
+        "legacy"
+      ]
+    },
+    {
+      "id": "violence_peril",
+      "label": "Violence / peril",
+      "spine_weight": 0.85,
+      "corpus_hits": 108,
+      "keywords": [
+        "wound",
+        "blood",
+        "attack",
+        "assault",
+        "kill",
+        "sword",
+        "injured",
+        "dying"
+      ]
+    },
+    {
+      "id": "power_disownment",
+      "label": "Power / disownment",
+      "spine_weight": 0.9,
+      "corpus_hits": 47,
+      "keywords": [
+        "disown",
+        "inheritance",
+        "cast out",
+        "never",
+        "get out",
+        "estate",
+        "claim",
+        "seat"
+      ]
+    },
+    {
+      "id": "secret_truth",
+      "label": "Secret / truth reveal",
+      "spine_weight": 0.8,
+      "corpus_hits": 49,
+      "keywords": [
+        "truth",
+        "secret",
+        "lied",
+        "reveal",
+        "confession",
+        "promise",
+        "never tell",
+        "hid"
+      ]
+    },
+    {
+      "id": "rival_court",
+      "label": "Rival / court society",
+      "spine_weight": 0.7,
+      "corpus_hits": 55,
+      "keywords": [
+        "clarissa",
+        "gerald",
+        "matriarch",
+        "noble",
+        "ball",
+        "county",
+        "society",
+        "gossip"
+      ]
+    },
+    {
+      "id": "home_garden",
+      "label": "Home / garden refuge",
+      "spine_weight": 0.55,
+      "corpus_hits": 45,
+      "keywords": [
+        "garden",
+        "cottage",
+        "home",
+        "hearth",
+        "flowers"
+      ]
+    }
+  ],
+  "arc_phases": {
+    "opening": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "binding": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "rising": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "peak": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "resolution": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ]
+  },
+  "episodes": [
+    {
+      "episode": 1,
+      "logline": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fiancé Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing.",
+      "arc_phase": "opening",
+      "theme_hits": {
+        "wedding_betrayal": 8,
+        "identity_lineage": 1,
+        "central_bond": 2,
+        "violence_peril": 1,
+        "power_disownment": 1,
+        "secret_truth": 1,
+        "rival_court": 3
+      },
+      "primary_themes": [
+        "wedding_betrayal",
+        "rival_court",
+        "central_bond"
+      ]
+    },
+    {
+      "episode": 2,
+      "logline": "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor.",
+      "arc_phase": "opening",
+      "theme_hits": {
+        "wedding_betrayal": 4,
+        "identity_lineage": 2,
+        "central_bond": 2,
+        "violence_peril": 1,
+        "power_disownment": 1,
+        "secret_truth": 1,
+        "rival_court": 3
+      },
+      "primary_themes": [
+        "wedding_betrayal",
+        "rival_court",
+        "identity_lineage"
+      ]
+    },
+    {
+      "episode": 3,
+      "logline": "Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who intervenes with lethal grace—and drops to one knee with a proposal that shocks high society.",
+      "arc_phase": "opening",
+      "theme_hits": {
+        "wedding_betrayal": 6,
+        "identity_lineage": 3,
+        "central_bond": 1,
+        "violence_peril": 2,
+        "power_disownment": 1,
+        "rival_court": 5
+      },
+      "primary_themes": [
+        "wedding_betrayal",
+        "rival_court",
+        "identity_lineage"
+      ]
+    },
+    {
+      "episode": 4,
+      "logline": "Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosing exile and dignity over her family's cruelty as they walk out into the light together.",
+      "arc_phase": "opening",
+      "theme_hits": {
+        "wedding_betrayal": 2,
+        "identity_lineage": 2,
+        "central_bond": 2,
+        "violence_peril": 2,
+        "power_disownment": 1,
+        "rival_court": 2
+      },
+      "primary_themes": [
+        "wedding_betrayal",
+        "identity_lineage",
+        "central_bond"
+      ]
+    },
+    {
+      "episode": 5,
+      "logline": "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family.",
+      "arc_phase": "opening",
+      "theme_hits": {
+        "wedding_betrayal": 5,
+        "identity_lineage": 6,
+        "central_bond": 2,
+        "violence_peril": 1,
+        "power_disownment": 2,
+        "rival_court": 3
+      },
+      "primary_themes": [
+        "identity_lineage",
+        "wedding_betrayal",
+        "rival_court"
+      ]
+    },
+    {
+      "episode": 6,
+      "logline": "Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth.",
+      "arc_phase": "opening",
+      "theme_hits": {
+        "wedding_betrayal": 3,
+        "identity_lineage": 1,
+        "central_bond": 2,
+        "violence_peril": 2,
+        "secret_truth": 1,
+        "home_garden": 3,
+        "rival_court": 1
+      },
+      "primary_themes": [
+        "wedding_betrayal",
+        "home_garden",
+        "central_bond"
+      ]
+    },
+    {
+      "episode": 7,
+      "logline": "When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from the forest to silently send them fleeing.",
+      "arc_phase": "binding",
+      "theme_hits": {
+        "wedding_betrayal": 1,
+        "identity_lineage": 1,
+        "central_bond": 1,
+        "violence_peril": 1,
+        "home_garden": 2,
+        "rival_court": 1
+      },
+      "primary_themes": [
+        "home_garden",
+        "wedding_betrayal",
+        "identity_lineage"
+      ]
+    },
+    {
+      "episode": 8,
+      "logline": "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means.",
+      "arc_phase": "binding",
+      "theme_hits": {
+        "identity_lineage": 1,
+        "central_bond": 3,
+        "violence_peril": 2,
+        "power_disownment": 1,
+        "home_garden": 2
+      },
+      "primary_themes": [
+        "central_bond",
+        "violence_peril",
+        "home_garden"
+      ]
+    },
+    {
+      "episode": 9,
+      "logline": "When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remedies, unknowingly igniting dangerous rumors that reach the ears of the Blond Nobleman.",
+      "arc_phase": "binding",
+      "theme_hits": {
+        "wedding_betrayal": 1,
+        "identity_lineage": 2,
+        "central_bond": 3,
+        "violence_peril": 2,
+        "power_disownment": 2,
+        "home_garden": 2,
+        "rival_court": 1
+      },
+      "primary_themes": [
+        "central_bond",
+        "identity_lineage",
+        "violence_peril"
+      ]
+    },
+    {
+      "episode": 10,
+      "logline": "When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontation where their unspoken feelings and scarred pasts finally collide.",
+      "arc_phase": "binding",
+      "theme_hits": {
+        "wedding_betrayal": 1,
+        "identity_lineage": 2,
+        "central_bond": 3,
+        "violence_peril": 4,
+        "secret_truth": 1,
+        "home_garden": 2
+      },
+      "primary_themes": [
+        "violence_peril",
+        "central_bond",
+        "identity_lineage"
+      ]
+    },
+    {
+      "episode": 11,
+      "logline": "Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threatens to tear the newlyweds apart.",
+      "arc_phase": "binding",
+      "theme_hits": {
+        "wedding_betrayal": 1,
+        "identity_lineage": 1,
+        "central_bond": 2,
+        "violence_peril": 2,
+        "power_disownment": 1,
+        "secret_truth": 2,
+        "home_garden": 2,
+        "rival_court": 2
+      },
+      "primary_themes": [
+        "central_bond",
+        "violence_peril",
+        "secret_truth"
+      ]
+    },
+    {
+      "episode": 12,
+      "logline": "When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from frozen, razor-sharp blackthorn briars with her bare hands, or watch her husband hang.",
+      "arc_phase": "binding",
+      "theme_hits": {
+        "wedding_betrayal": 2,
+        "identity_lineage": 1,
+        "central_bond": 4,
+        "violence_peril": 2,
+        "power_disownment": 1,
+        "home_garden": 2,
+        "rival_court": 2
+      },
+      "primary_themes": [
+        "central_bond",
+        "wedding_betrayal",
+        "violence_peril"
+      ]
+    },
+    {
+      "episode": 13,
+      "logline": "Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's cruel taunts until she unearths the lost emerald signet ring.",
+      "arc_phase": "binding",
+      "theme_hits": {
+        "identity_lineage": 1,
+        "central_bond": 3,
+        "violence_peril": 6,
+        "home_garden": 1,
+        "rival_court": 2
+      },
+      "primary_themes": [
+        "violence_peril",
+        "central_bond",
+        "rival_court"
+      ]
+    },
+    {
+      "episode": 14,
+      "logline": "After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one will ever harm her again.",
+      "arc_phase": "binding",
+      "theme_hits": {
+        "wedding_betrayal": 1,
+        "identity_lineage": 1,
+        "central_bond": 6,
+        "violence_peril": 5,
+        "power_disownment": 2,
+        "secret_truth": 2,
+        "home_garden": 4
+      },
+      "primary_themes": [
+        "central_bond",
+        "violence_peril",
+        "home_garden"
+      ]
+    },
+    {
+      "episode": 15,
+      "logline": "When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her.",
+      "arc_phase": "binding",
+      "theme_hits": {
+        "identity_lineage": 3,
+        "central_bond": 3,
+        "violence_peril": 3,
+        "power_disownment": 1,
+        "home_garden": 4,
+        "rival_court": 1
+      },
+      "primary_themes": [
+        "home_garden",
+        "identity_lineage",
+        "central_bond"
+      ]
+    },
+    {
+      "episode": 16,
+      "logline": "When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a shocking confession that unmasks Gerald Harrington as the mastermind.",
+      "arc_phase": "rising",
+      "theme_hits": {
+        "identity_lineage": 1,
+        "central_bond": 2,
+        "violence_peril": 3,
+        "secret_truth": 1,
+        "home_garden": 2,
+        "rival_court": 1
+      },
+      "primary_themes": [
+        "violence_peril",
+        "central_bond",
+        "home_garden"
+      ]
+    },
+    {
+      "episode": 17,
+      "logline": "In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intimate embrace by the hearth.",
+      "arc_phase": "rising",
+      "theme_hits": {
+        "identity_lineage": 1,
+        "central_bond": 5,
+        "violence_peril": 4,
+        "secret_truth": 1,
+        "home_garden": 3
+      },
+      "primary_themes": [
+        "central_bond",
+        "violence_peril",
+        "home_garden"
+      ]
+    },
+    {
+      "episode": 18,
+      "logline": "When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the inferno, vowing relentless vengeance against those responsible.",
+      "arc_phase": "rising",
+      "theme_hits": {
+        "wedding_betrayal": 1,
+        "identity_lineage": 2,
+        "central_bond": 4,
+        "violence_peril": 1,
+        "home_garden": 2
+      },
+      "primary_themes": [
+        "central_bond",
+        "identity_lineage",
+        "home_garden"
+      ]
+    },
+    {
+      "episode": 19,
+      "logline": "Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a loyal spy, learning that his usurping enemies have imprisoned his mother and claimed his ducal seat.",
+      "arc_phase": "rising",
+      "theme_hits": {
+        "identity_lineage": 5,
+        "central_bond": 2,
+        "violence_peril": 1,
+        "power_disownment": 3,
+        "secret_truth": 2,
+        "home_garden": 2,
+        "rival_court": 1
+      },
+      "primary_themes": [
+        "identity_lineage",
+        "power_disownment",
+        "central_bond"
+      ]
+    },
+    {
+      "episode": 20,
+      "logline": "Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers.",
+      "arc_phase": "rising",
+      "theme_hits": {
+        "wedding_betrayal": 2,
+        "identity_lineage": 5,
+        "central_bond": 4,
+        "violence_peril": 2,
+        "power_disownment": 2,
+        "secret_truth": 1,
+        "home_garden": 1
+      },
+      "primary_themes": [
+        "identity_lineage",
+        "central_bond",
+        "wedding_betrayal"
+      ]
+    },
+    {
+      "episode": 21,
+      "logline": "After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly withering away from a mysterious illness inside Ashbury Manor.",
+      "arc_phase": "rising",
+      "theme_hits": {
+        "wedding_betrayal": 1,
+        "identity_lineage": 2,
+        "central_bond": 2,
+        "violence_peril": 2,
+        "secret_truth": 1,
+        "home_garden": 3
+      },
+      "primary_themes": [
+        "home_garden",
+        "identity_lineage",
+        "central_bond"
+      ]
+    },
+    {
+      "episode": 22,
+      "logline": "Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the dying Dowager Duchess suffering from an unnatural, poisoned affliction.",
+      "arc_phase": "rising",
+      "theme_hits": {
+        "identity_lineage": 1,
+        "central_bond": 1,
+        "violence_peril": 3
+      },
+      "primary_themes": [
+        "violence_peril",
+        "identity_lineage",
+        "central_bond"
+      ]
+    },
+    {
+      "episode": 23,
+      "logline": "After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being poisoned with arsenic—only for someone to arrive at the bedroom door just as she begins concocting the antidote.",
+      "arc_phase": "rising",
+      "theme_hits": {
+        "identity_lineage": 1,
+        "central_bond": 1,
+        "violence_peril": 3,
+        "secret_truth": 1
+      },
+      "primary_themes": [
+        "violence_peril",
+        "identity_lineage",
+        "central_bond"
+      ]
+    },
+    {
+      "episode": 24,
+      "logline": "When an arrogant noblewoman catches Juliana in the poisoned Dowager Duchess's chambers, she strikes Juliana with a riding crop and sentences her to scrub the hearth, unaware that Juliana has secretly hidden the antidote and remedy journal to finish the Duchess's cure.",
+      "arc_phase": "rising",
+      "theme_hits": {
+        "wedding_betrayal": 2,
+        "identity_lineage": 1,
+        "central_bond": 4,
+        "violence_peril": 2,
+        "secret_truth": 2,
+        "home_garden": 1,
+        "rival_court": 2
+      },
+      "primary_themes": [
+        "central_bond",
+        "wedding_betrayal",
+        "violence_peril"
+      ]
+    },
+    {
+      "episode": 25,
+      "logline": "Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and protective concern upon learning that someone is systematically poisoning the Dowager Duchess with arsenic.",
+      "arc_phase": "rising",
+      "theme_hits": {
+        "identity_lineage": 1,
+        "central_bond": 4,
+        "violence_peril": 5,
+        "secret_truth": 2
+      },
+      "primary_themes": [
+        "violence_peril",
+        "central_bond",
+        "secret_truth"
+      ]
+    },
+    {
+      "episode": 26,
+      "logline": "While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity.",
+      "arc_phase": "rising",
+      "theme_hits": {
+        "wedding_betrayal": 1,
+        "central_bond": 1,
+        "violence_peril": 3,
+        "secret_truth": 3,
+        "rival_court": 1
+      },
+      "primary_themes": [
+        "violence_peril",
+        "secret_truth",
+        "wedding_betrayal"
+      ]
+    },
+    {
+      "episode": 27,
+      "logline": "The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert and Catherine storm the bedchamber and frame her for poisoning the Duchess.",
+      "arc_phase": "rising",
+      "theme_hits": {
+        "wedding_betrayal": 2,
+        "identity_lineage": 2,
+        "central_bond": 3,
+        "violence_peril": 2,
+        "power_disownment": 1,
+        "secret_truth": 2,
+        "rival_court": 1
+      },
+      "primary_themes": [
+        "central_bond",
+        "wedding_betrayal",
+        "identity_lineage"
+      ]
+    },
+    {
+      "episode": 28,
+      "logline": "Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother's herbarium before ordering her to the castle dungeons.",
+      "arc_phase": "peak",
+      "theme_hits": {
+        "wedding_betrayal": 1,
+        "identity_lineage": 1,
+        "central_bond": 2,
+        "violence_peril": 2,
+        "secret_truth": 3,
+        "rival_court": 2
+      },
+      "primary_themes": [
+        "secret_truth",
+        "central_bond",
+        "violence_peril"
+      ]
+    },
+    {
+      "episode": 29,
+      "logline": "Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana breaks down in isolation before swearing that they will never take Alexander from her.",
+      "arc_phase": "peak",
+      "theme_hits": {
+        "wedding_betrayal": 2,
+        "identity_lineage": 3,
+        "central_bond": 3,
+        "violence_peril": 1,
+        "power_disownment": 2
+      },
+      "primary_themes": [
+        "identity_lineage",
+        "central_bond",
+        "wedding_betrayal"
+      ]
+    },
+    {
+      "episode": 30,
+      "logline": "When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a witchcraft charge against Juliana, sealing her fate for the gallows.",
+      "arc_phase": "peak",
+      "theme_hits": {
+        "wedding_betrayal": 1,
+        "identity_lineage": 2,
+        "central_bond": 3,
+        "violence_peril": 3,
+        "power_disownment": 2,
+        "secret_truth": 3,
+        "home_garden": 1,
+        "rival_court": 1
+      },
+      "primary_themes": [
+        "central_bond",
+        "violence_peril",
+        "secret_truth"
+      ]
+    },
+    {
+      "episode": 31,
+      "logline": "Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthless psychological torment until Juliana's unyielding pride pushes Catherine to a violent brink.",
+      "arc_phase": "peak",
+      "theme_hits": {
+        "wedding_betrayal": 3,
+        "identity_lineage": 3,
+        "central_bond": 1,
+        "violence_peril": 2,
+        "rival_court": 3
+      },
+      "primary_themes": [
+        "wedding_betrayal",
+        "identity_lineage",
+        "rival_court"
+      ]
+    },
+    {
+      "episode": 32,
+      "logline": "Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine into a murderous fury.",
+      "arc_phase": "peak",
+      "theme_hits": {
+        "wedding_betrayal": 1,
+        "identity_lineage": 1,
+        "central_bond": 2,
+        "violence_peril": 1,
+        "secret_truth": 1
+      },
+      "primary_themes": [
+        "central_bond",
+        "wedding_betrayal",
+        "identity_lineage"
+      ]
+    },
+    {
+      "episode": 33,
+      "logline": "Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft.",
+      "arc_phase": "peak",
+      "theme_hits": {
+        "identity_lineage": 1,
+        "central_bond": 1,
+        "violence_peril": 1,
+        "rival_court": 1
+      },
+      "primary_themes": [
+        "identity_lineage",
+        "central_bond",
+        "violence_peril"
+      ]
+    },
+    {
+      "episode": 34,
+      "logline": "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even after her coerced maid gives false testimony against her.",
+      "arc_phase": "peak",
+      "theme_hits": {
+        "wedding_betrayal": 2,
+        "identity_lineage": 1,
+        "central_bond": 1,
+        "violence_peril": 3,
+        "power_disownment": 1,
+        "secret_truth": 1
+      },
+      "primary_themes": [
+        "violence_peril",
+        "wedding_betrayal",
+        "identity_lineage"
+      ]
+    },
+    {
+      "episode": 35,
+      "logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise.",
+      "arc_phase": "peak",
+      "theme_hits": {
+        "identity_lineage": 1,
+        "central_bond": 2,
+        "violence_peril": 2,
+        "secret_truth": 3
+      },
+      "primary_themes": [
+        "secret_truth",
+        "central_bond",
+        "violence_peril"
+      ]
+    },
+    {
+      "episode": 36,
+      "logline": "Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming wedding, Alexander vows to return from the dead and reclaim everything stolen from him.",
+      "arc_phase": "peak",
+      "theme_hits": {
+        "wedding_betrayal": 2,
+        "identity_lineage": 2,
+        "central_bond": 2,
+        "violence_peril": 1,
+        "power_disownment": 3,
+        "secret_truth": 1
+      },
+      "primary_themes": [
+        "power_disownment",
+        "wedding_betrayal",
+        "identity_lineage"
+      ]
+    },
+    {
+      "episode": 37,
+      "logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit.",
+      "arc_phase": "peak",
+      "theme_hits": {
+        "wedding_betrayal": 3,
+        "identity_lineage": 1,
+        "central_bond": 3,
+        "violence_peril": 1,
+        "power_disownment": 1,
+        "home_garden": 2,
+        "rival_court": 3
+      },
+      "primary_themes": [
+        "wedding_betrayal",
+        "central_bond",
+        "rival_court"
+      ]
+    },
+    {
+      "episode": 38,
+      "logline": "A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant wedding bells signal the start of Rupert's nuptials and her impending execution.",
+      "arc_phase": "peak",
+      "theme_hits": {
+        "wedding_betrayal": 1,
+        "central_bond": 4,
+        "violence_peril": 1,
+        "power_disownment": 2,
+        "secret_truth": 1
+      },
+      "primary_themes": [
+        "central_bond",
+        "power_disownment",
+        "wedding_betrayal"
+      ]
+    },
+    {
+      "episode": 39,
+      "logline": "While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal regalia, and marches forth to reclaim his house and rescue Juliana.",
+      "arc_phase": "peak",
+      "theme_hits": {
+        "wedding_betrayal": 2,
+        "identity_lineage": 2,
+        "central_bond": 3,
+        "violence_peril": 2,
+        "power_disownment": 1,
+        "secret_truth": 1,
+        "home_garden": 1
+      },
+      "primary_themes": [
+        "central_bond",
+        "wedding_betrayal",
+        "identity_lineage"
+      ]
+    },
+    {
+      "episode": 40,
+      "logline": "High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's execution—unaware that Alexander's retribution is already at their gates.",
+      "arc_phase": "resolution",
+      "theme_hits": {
+        "wedding_betrayal": 5,
+        "identity_lineage": 2,
+        "central_bond": 3,
+        "violence_peril": 2,
+        "power_disownment": 1,
+        "rival_court": 3
+      },
+      "primary_themes": [
+        "wedding_betrayal",
+        "central_bond",
+        "rival_court"
+      ]
+    },
+    {
+      "episode": 41,
+      "logline": "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced—until a deafening explosion shatters the cathedral entrance, heralding Alexander's vengeful assault.",
+      "arc_phase": "resolution",
+      "theme_hits": {
+        "wedding_betrayal": 4,
+        "identity_lineage": 1,
+        "central_bond": 3,
+        "violence_peril": 3,
+        "power_disownment": 1,
+        "secret_truth": 1,
+        "rival_court": 2
+      },
+      "primary_themes": [
+        "wedding_betrayal",
+        "central_bond",
+        "violence_peril"
+      ]
+    },
+    {
+      "episode": 42,
+      "logline": "Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal guards, and is proclaimed the rightful Duke of Ashburn by his weeping mother.",
+      "arc_phase": "resolution",
+      "theme_hits": {
+        "wedding_betrayal": 3,
+        "identity_lineage": 4,
+        "central_bond": 3,
+        "violence_peril": 1,
+        "power_disownment": 1,
+        "secret_truth": 1,
+        "home_garden": 1,
+        "rival_court": 1
+      },
+      "primary_themes": [
+        "identity_lineage",
+        "wedding_betrayal",
+        "central_bond"
+      ]
+    },
+    {
+      "episode": 43,
+      "logline": "When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert and Lord Sterling's treasonous plot.",
+      "arc_phase": "resolution",
+      "theme_hits": {
+        "wedding_betrayal": 4,
+        "identity_lineage": 1,
+        "central_bond": 2,
+        "violence_peril": 2,
+        "power_disownment": 1,
+        "secret_truth": 2
+      },
+      "primary_themes": [
+        "wedding_betrayal",
+        "central_bond",
+        "violence_peril"
+      ]
+    },
+    {
+      "episode": 44,
+      "logline": "As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as he walks toward his chained bride, Juliana.",
+      "arc_phase": "resolution",
+      "theme_hits": {
+        "wedding_betrayal": 3,
+        "identity_lineage": 3,
+        "central_bond": 4,
+        "violence_peril": 2,
+        "power_disownment": 2
+      },
+      "primary_themes": [
+        "central_bond",
+        "wedding_betrayal",
+        "identity_lineage"
+      ]
+    },
+    {
+      "episode": 45,
+      "logline": "Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastical authority to burst in and declare their marriage legally invalid.",
+      "arc_phase": "resolution",
+      "theme_hits": {
+        "wedding_betrayal": 6,
+        "identity_lineage": 5,
+        "central_bond": 5,
+        "violence_peril": 3,
+        "power_disownment": 2,
+        "secret_truth": 1,
+        "rival_court": 1
+      },
+      "primary_themes": [
+        "wedding_betrayal",
+        "identity_lineage",
+        "central_bond"
+      ]
+    },
+    {
+      "episode": 46,
+      "logline": "The High Priest places the sanctuary under Crown seizure and invalidates Alexander and Juliana's wedding for lack of royal license, prompting Alexander to demand a ten-day ecclesiastical trial while Catherine schemes to destroy them.",
+      "arc_phase": "resolution",
+      "theme_hits": {
+        "wedding_betrayal": 7,
+        "identity_lineage": 5,
+        "central_bond": 4,
+        "violence_peril": 1,
+        "power_disownment": 2,
+        "secret_truth": 2,
+        "rival_court": 1
+      },
+      "primary_themes": [
+        "wedding_betrayal",
+        "identity_lineage",
+        "central_bond"
+      ]
+    },
+    {
+      "episode": 47,
+      "logline": "While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbourne—only for Juliana to offer her survival under the strict humiliation of a scullery maid.",
+      "arc_phase": "resolution",
+      "theme_hits": {
+        "wedding_betrayal": 3,
+        "identity_lineage": 4,
+        "central_bond": 4,
+        "violence_peril": 3,
+        "power_disownment": 4,
+        "home_garden": 1,
+        "rival_court": 2
+      },
+      "primary_themes": [
+        "identity_lineage",
+        "central_bond",
+        "power_disownment"
+      ]
+    },
+    {
+      "episode": 48,
+      "logline": "While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strike back at Alexander and Juliana with the aid of Father Thomas.",
+      "arc_phase": "resolution",
+      "theme_hits": {
+        "wedding_betrayal": 1,
+        "identity_lineage": 2,
+        "central_bond": 4,
+        "violence_peril": 1,
+        "power_disownment": 1,
+        "secret_truth": 1,
+        "home_garden": 1,
+        "rival_court": 2
+      },
+      "primary_themes": [
+        "central_bond",
+        "identity_lineage",
+        "rival_court"
+      ]
+    },
+    {
+      "episode": 49,
+      "logline": "Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract inside intelligence, sealing their treasonous alliance with intimate assurance.",
+      "arc_phase": "resolution",
+      "theme_hits": {
+        "wedding_betrayal": 1,
+        "identity_lineage": 2,
+        "violence_peril": 2,
+        "secret_truth": 2,
+        "rival_court": 1
+      },
+      "primary_themes": [
+        "identity_lineage",
+        "violence_peril",
+        "secret_truth"
+      ]
+    },
+    {
+      "episode": 50,
+      "logline": "Following their illicit passion in the abandoned manor wing, Catherine negotiates Father Thomas's corrupt silence with territorial control—unaware that Agnes has walked in and witnessed their scandalous intimacy.",
+      "arc_phase": "resolution",
+      "theme_hits": {
+        "identity_lineage": 3,
+        "central_bond": 1,
+        "violence_peril": 1,
+        "secret_truth": 1
+      },
+      "primary_themes": [
+        "identity_lineage",
+        "central_bond",
+        "violence_peril"
+      ]
+    }
+  ],
+  "loglines": [
+    {
+      "ep": 1,
+      "logline": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fiancé Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing."
+    },
+    {
+      "ep": 2,
+      "logline": "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor."
+    },
+    {
+      "ep": 3,
+      "logline": "Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who intervenes with lethal grace—and drops to one knee with a proposal that shocks high society."
+    },
+    {
+      "ep": 4,
+      "logline": "Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosing exile and dignity over her family's cruelty as they walk out into the light together."
+    },
+    {
+      "ep": 5,
+      "logline": "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family."
+    },
+    {
+      "ep": 6,
+      "logline": "Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth."
+    },
+    {
+      "ep": 7,
+      "logline": "When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from the forest to silently send them fleeing."
+    },
+    {
+      "ep": 8,
+      "logline": "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means."
+    },
+    {
+      "ep": 9,
+      "logline": "When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remedies, unknowingly igniting dangerous rumors that reach the ears of the Blond Nobleman."
+    },
+    {
+      "ep": 10,
+      "logline": "When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontation where their unspoken feelings and scarred pasts finally collide."
+    },
+    {
+      "ep": 11,
+      "logline": "Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threatens to tear the newlyweds apart."
+    },
+    {
+      "ep": 12,
+      "logline": "When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from frozen, razor-sharp blackthorn briars with her bare hands, or watch her husband hang."
+    },
+    {
+      "ep": 13,
+      "logline": "Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's cruel taunts until she unearths the lost emerald signet ring."
+    },
+    {
+      "ep": 14,
+      "logline": "After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one will ever harm her again."
+    },
+    {
+      "ep": 15,
+      "logline": "When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her."
+    },
+    {
+      "ep": 16,
+      "logline": "When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a shocking confession that unmasks Gerald Harrington as the mastermind."
+    },
+    {
+      "ep": 17,
+      "logline": "In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intimate embrace by the hearth."
+    },
+    {
+      "ep": 18,
+      "logline": "When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the inferno, vowing relentless vengeance against those responsible."
+    },
+    {
+      "ep": 19,
+      "logline": "Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a loyal spy, learning that his usurping enemies have imprisoned his mother and claimed his ducal seat."
+    },
+    {
+      "ep": 20,
+      "logline": "Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers."
+    },
+    {
+      "ep": 21,
+      "logline": "After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly withering away from a mysterious illness inside Ashbury Manor."
+    },
+    {
+      "ep": 22,
+      "logline": "Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the dying Dowager Duchess suffering from an unnatural, poisoned affliction."
+    },
+    {
+      "ep": 23,
+      "logline": "After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being poisoned with arsenic—only for someone to arrive at the bedroom door just as she begins concocting the antidote."
+    },
+    {
+      "ep": 24,
+      "logline": "When an arrogant noblewoman catches Juliana in the poisoned Dowager Duchess's chambers, she strikes Juliana with a riding crop and sentences her to scrub the hearth, unaware that Juliana has secretly hidden the antidote and remedy journal to finish the Duchess's cure."
+    },
+    {
+      "ep": 25,
+      "logline": "Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and protective concern upon learning that someone is systematically poisoning the Dowager Duchess with arsenic."
+    },
+    {
+      "ep": 26,
+      "logline": "While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity."
+    },
+    {
+      "ep": 27,
+      "logline": "The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert and Catherine storm the bedchamber and frame her for poisoning the Duchess."
+    },
+    {
+      "ep": 28,
+      "logline": "Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother's herbarium before ordering her to the castle dungeons."
+    },
+    {
+      "ep": 29,
+      "logline": "Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana breaks down in isolation before swearing that they will never take Alexander from her."
+    },
+    {
+      "ep": 30,
+      "logline": "When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a witchcraft charge against Juliana, sealing her fate for the gallows."
+    },
+    {
+      "ep": 31,
+      "logline": "Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthless psychological torment until Juliana's unyielding pride pushes Catherine to a violent brink."
+    },
+    {
+      "ep": 32,
+      "logline": "Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine into a murderous fury."
+    },
+    {
+      "ep": 33,
+      "logline": "Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft."
+    },
+    {
+      "ep": 34,
+      "logline": "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even after her coerced maid gives false testimony against her."
+    },
+    {
+      "ep": 35,
+      "logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise."
+    },
+    {
+      "ep": 36,
+      "logline": "Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming wedding, Alexander vows to return from the dead and reclaim everything stolen from him."
+    },
+    {
+      "ep": 37,
+      "logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit."
+    },
+    {
+      "ep": 38,
+      "logline": "A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant wedding bells signal the start of Rupert's nuptials and her impending execution."
+    },
+    {
+      "ep": 39,
+      "logline": "While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal regalia, and marches forth to reclaim his house and rescue Juliana."
+    },
+    {
+      "ep": 40,
+      "logline": "High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's execution—unaware that Alexander's retribution is already at their gates."
+    },
+    {
+      "ep": 41,
+      "logline": "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced—until a deafening explosion shatters the cathedral entrance, heralding Alexander's vengeful assault."
+    },
+    {
+      "ep": 42,
+      "logline": "Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal guards, and is proclaimed the rightful Duke of Ashburn by his weeping mother."
+    },
+    {
+      "ep": 43,
+      "logline": "When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert and Lord Sterling's treasonous plot."
+    },
+    {
+      "ep": 44,
+      "logline": "As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as he walks toward his chained bride, Juliana."
+    },
+    {
+      "ep": 45,
+      "logline": "Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastical authority to burst in and declare their marriage legally invalid."
+    },
+    {
+      "ep": 46,
+      "logline": "The High Priest places the sanctuary under Crown seizure and invalidates Alexander and Juliana's wedding for lack of royal license, prompting Alexander to demand a ten-day ecclesiastical trial while Catherine schemes to destroy them."
+    },
+    {
+      "ep": 47,
+      "logline": "While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbourne—only for Juliana to offer her survival under the strict humiliation of a scullery maid."
+    },
+    {
+      "ep": 48,
+      "logline": "While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strike back at Alexander and Juliana with the aid of Father Thomas."
+    },
+    {
+      "ep": 49,
+      "logline": "Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract inside intelligence, sealing their treasonous alliance with intimate assurance."
+    },
+    {
+      "ep": 50,
+      "logline": "Following their illicit passion in the abandoned manor wing, Catherine negotiates Father Thomas's corrupt silence with territorial control—unaware that Agnes has walked in and witnessed their scandalous intimacy."
+    }
+  ],
+  "spoiler_guidance": {
+    "cold_safe_phases": [
+      "opening",
+      "binding"
+    ],
+    "use_sparingly_for_acquisition": [
+      "peak",
+      "resolution"
+    ],
+    "note": "Late-arc reveals (identity payoffs, final confrontations) score well for quality but carry spoiler risk for cold traffic — global ranker applies a soft penalty when campaign_role is acquisition-facing."
+  },
+  "promo_theme_taxonomy_note": "Promo classification labels (emotional, cliffhanger, …) are editorial tags for marketers to experiment with mix — they must not drive rank. Continuity themes below are story-spine signals for fit/clarity only.",
+  "how_to_use": {
+    "global_scoring": "Fit promo text + ep logline against spine_themes + arc_phase",
+    "campaign_pack": "Rank all candidates globally; diversify types AFTER score",
+    "per_episode_catalogue": "Still pick best-in-ep for episode pages"
+  }
+}

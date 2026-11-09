@@ -1,0 +1,25 @@
+{
+  "id": "e3226269c4",
+  "name": "Kuku Sample Show (demo)",
+  "description": "Complete hybrid pack for all 50 assignment episodes (Priority + By episode + Continuity). Scripts are private — browse results here. For other shows: New project → upload your .txt episodes → Generate.",
+  "created_at": "2026-11-08T15:22:10",
+  "updated_at": "2026-11-08T16:16:14",
+  "status": "ready",
+  "mode": "hybrid",
+  "label": "demo-seed-hybrid",
+  "is_seed_demo": true,
+  "scripts_public": false,
+  "last_result": {
+    "mode": "hybrid",
+    "label": "demo-seed-hybrid",
+    "final_path": "data/projects/e3226269c4/output/FINAL_PROMOS_hybrid.json",
+    "top5_path": "data/projects/e3226269c4/output/promos_hybrid_top5.json",
+    "continuity_path": "data/projects/e3226269c4/output/series_continuity_map.json",
+    "campaign_csv": "data/projects/e3226269c4/output/FINAL_PROMOS_hybrid_campaign_pack.csv",
+    "posting_csv": "data/projects/e3226269c4/output/FINAL_PROMOS_hybrid_posting_order.csv"
+  },
+  "error": null,
+  "script_count": 0,
+  "episode_count_source": 50,
+  "notes": "Full outputs in public deploy. Scripts never shipped. Visitors upload their own packs on new projects."
+}

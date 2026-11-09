@@ -1,0 +1,78 @@
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+*.pem
+
+# Internal notes — never publish
+DECISIONS.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.venv/
+venv/
+ENV/
+
+# Caches / tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.cache/
+*.tmp
+_patch_*.py
+_fix_*.py
+
+# Assignment episode scripts — NEVER publish (outputs only)
+I Married a Broken Soldier. He was a Duke/
+data/projects/*/scripts/
+data/projects/*/scripts/**
+data/raw_episodes/
+data/uploads/
+data/processed/
+!data/processed/.gitkeep
+
+# Heavy local experiment dumps
+output/full_compare/
+output/full_compare_llm/
+output/full_compare_smoke/
+output/tmp/
+output/*.log
+output/final/
+output/debug/
+
+# Logs / OS / IDE
+*.log
+logs/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+web_server.log
+docs/_pdf_check.txt
+*.pdf.bak
+nul
+NULL
+
+# Large local-only PDFs (keep promo submission if small enough — ignore assignment brief if huge)
+Kuku — AI Generalist Assignment.pdf

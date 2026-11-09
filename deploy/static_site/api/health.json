@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "product": "KuKu Promo Finder",
+  "version": "1.3.0-static",
+  "static_demo": true,
+  "demo_public": true,
+  "groq_configured": false,
+  "message": "Static host — full precomputed 50-ep hybrid pack"
+}

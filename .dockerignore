@@ -1,0 +1,31 @@
+.git
+.github
+.env
+.env.*
+*.log
+__pycache__
+**/__pycache__
+*.pyc
+.venv
+venv
+node_modules
+
+# Never bake private episode scripts into the image
+I Married a Broken Soldier. He was a Duke/
+data/projects/*/scripts/**
+data/raw_episodes/**
+data/uploads/**
+data/processed/**
+
+# Heavy local experiment dumps (optional; demo project outputs are kept)
+output/full_compare/**
+output/full_compare_llm/**
+output/full_compare_smoke/**
+web_server.log
+
+# Local IDE / OS
+.vscode
+.idea
+.DS_Store
+Thumbs.db
+docs/_pdf_check.txt

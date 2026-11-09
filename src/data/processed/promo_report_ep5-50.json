@@ -1,0 +1,39 @@
+{
+  "episodes": [
+    5,
+    23,
+    38,
+    42,
+    50
+  ],
+  "mini_arc_mode": "hybrid",
+  "total_candidates": 2,
+  "validated": 1,
+  "final_promos": [
+    {
+      "episode": 38,
+      "scene_ids": [
+        "scene_1"
+      ],
+      "start_sec": 62.8,
+      "end_sec": 84.5,
+      "duration_sec": 21.7,
+      "trigger_beat_index": 40,
+      "trigger_text": "\"I will not betray him.\"",
+      "mini_arc_valid": true,
+      "mini_arc_mode": "hybrid",
+      "mini_arc_reason": "rule: good duration | strong trigger language | opens with hook",
+      "hook_strength": null,
+      "cliffhanger_strength": null,
+      "emotional_escalation": null,
+      "narrative_completeness": null,
+      "pacing": null,
+      "dialogue_impact": null,
+      "character_stakes": null,
+      "overall_score": null,
+      "llm_rationale": null,
+      "promo_types": [],
+      "rank": null
+    }
+  ]
+}

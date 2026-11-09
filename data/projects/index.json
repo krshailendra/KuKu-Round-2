@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "id": "e3226269c4",
+      "name": "Kuku Sample Show (demo)",
+      "description": "Complete 50-ep hybrid results. Create a new project to upload other scripts and Generate.",
+      "created_at": "2026-11-08T15:22:10",
+      "updated_at": "2026-11-08T16:16:14",
+      "status": "ready",
+      "mode": "hybrid",
+      "label": "demo-seed-hybrid",
+      "is_seed_demo": true,
+      "scripts_public": false,
+      "script_count": 0,
+      "has_results": true
+    }
+  ],
+  "active_id": "e3226269c4"
+}

@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <title>KuKu Promo Finder</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="icon" type="image/png" href="/static/img/kuku-logo.png" />
+  <link rel="stylesheet" href="/static/css/styles.css?v=9" />
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-brand">
+        <img class="brand-logo" src="/static/img/kuku-logo.png" alt="kuku" />
+        <div class="product-name">
+          <strong>Promo Finder</strong>
+          <span class="sub">Ads · microdrama</span>
+        </div>
+      </div>
+
+      <button type="button" class="btn btn-primary btn-block" id="btn-new-project" data-action="new-project">
+        + New project
+      </button>
+
+      <div class="sidebar-label">Projects</div>
+      <div class="project-list" id="project-list">
+        <div class="empty-side">No projects yet.<br/>Create one to upload scripts.</div>
+      </div>
+
+      <div class="sidebar-foot">
+        <button type="button" class="btn btn-ghost btn-sm btn-block" data-action="load-demo" title="Optional: load last saved FINAL pack for review">
+          Load demo results
+        </button>
+      </div>
+    </aside>
+
+    <div class="main-col">
+      <header class="topbar">
+        <button type="button" class="btn btn-ghost btn-sm sidebar-toggle" id="sidebar-toggle" title="Toggle projects">&#9776;</button>
+        <div class="topbar-project" id="topbar-project">No project selected</div>
+        <nav class="nav-tabs" id="nav-tabs">
+          <button type="button" class="active" data-view="generate">Workspace</button>
+          <button type="button" data-view="campaign">Priority list</button>
+          <button type="button" data-view="episodes">By episode</button>
+          <button type="button" data-view="continuity">Continuity &amp; rank</button>
+          <button type="button" data-view="marketer">Marketer QA</button>
+          <button type="button" data-view="features">Features</button>
+        </nav>
+      </header>
+
+      <div class="app-shell">
+        <div class="modal-backdrop" id="modal-new-project" hidden>
+          <div class="modal">
+            <h3>Create project</h3>
+            <p class="help">Each project holds one microdrama script folder and its promo pack.</p>
+            <label class="field">Project name</label>
+            <input class="input" id="new-project-name" placeholder="e.g. Broken Soldier · Season 1" />
+            <label class="field" style="margin-top:12px">Notes (optional)</label>
+            <input class="input" id="new-project-desc" placeholder="Internal note" />
+            <div class="btn-row">
+              <button type="button" class="btn btn-primary" data-action="create-project-confirm">Create</button>
+              <button type="button" class="btn btn-ghost" data-action="create-project-cancel">Cancel</button>
+            </div>
+          </div>
+        </div>
+
+        <section class="view active" id="view-generate">
+          <div class="hero">
+            <div class="hero-card">
+              <div class="pill-row">
+                <span class="pill brand">KuKu · Bharat</span>
+                <span class="pill" id="mode-pill">Mode: —</span>
+                <span class="pill" id="project-pill">Project: none</span>
+              </div>
+              <h1>Upload a script folder. <span class="red">Run the full pipeline.</span></h1>
+              <p class="lead">
+                Create a project → drop episode <strong>.txt</strong> scripts → parse beats → score promos
+                (rule / hybrid / LLM) → rank a campaign pack → Marketer QA. Everything runs through
+                the same <code>src/</code> pipeline used offline.
+              </p>
+              <div class="pill-row" id="status-pills"></div>
+            </div>
+            <div class="hero-card">
+              <div class="stat-grid">
+                <div class="stat"><div class="n" id="stat-campaign">—</div><div class="l">Campaign pack</div></div>
+                <div class="stat"><div class="n" id="stat-pool">—</div><div class="l">Promo pool</div></div>
+                <div class="stat"><div class="n" id="stat-eps">—</div><div class="l">Episodes</div></div>
+                <div class="stat"><div class="n" id="stat-scripts">—</div><div class="l">Scripts uploaded</div></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="panel" id="empty-workspace">
+            <div class="empty-workspace">
+              <img src="/static/img/kuku-logo.png" alt="" class="empty-logo" />
+              <h2>Start with a project</h2>
+              <p>Create a project for each microdrama script folder you want to process. You can keep many projects side by side.</p>
+              <button type="button" class="btn btn-primary" data-action="new-project">+ Create new project</button>
+            </div>
+          </div>
+
+          <div id="project-workspace" hidden>
+            <div class="form-grid">
+              <div class="panel">
+                <div class="section-title">
+                  <div>
+                    <h2>1 · Upload episode scripts</h2>
+                    <p>Choose a folder of <strong>.txt</strong> files (one episode per file). We parse scenes &amp; beats immediately.</p>
+                  </div>
+                </div>
+
+                <div class="upload-zone" id="upload-zone">
+                  <input type="file" id="folder-input" webkitdirectory directory multiple accept=".txt,text/plain" hidden />
+                  <div class="upload-inner">
+                    <div class="upload-ico">📁</div>
+                    <div class="upload-title">Drop a script folder here</div>
+                    <div class="help">or click to choose a folder · only .txt episode scripts are kept</div>
+                    <button type="button" class="btn btn-pink btn-sm" id="btn-pick-folder" style="margin-top:12px">Choose folder</button>
+                  </div>
+                </div>
+
+                <div class="scan-box" id="scan-box">
+                  <h4>Parsed scripts</h4>
+                  <div class="scan-meta" id="scan-meta"></div>
+                  <div class="scan-eps" id="scan-eps"></div>
+                </div>
+              </div>
+
+              <div class="panel">
+                <div class="section-title">
+                  <div>
+                    <h2>2 · Run pipeline</h2>
+                    <p>Uses <code>src/orchestrator.py</code> → ranker → Marketer Agent → FINAL pack</p>
+                  </div>
+                </div>
+
+                <label class="field">Validation mode</label>
+                <div class="mode-cards" id="mode-cards"></div>
+
+                <div class="toolbar" style="margin-top:12px">
+                  <div class="field-wrap">
+                    <label class="field">Top-K / episode</label>
+                    <input class="input" id="top-k" type="number" min="1" max="10" value="5" />
+                  </div>
+                  <div class="field-wrap">
+                    <label class="field">Campaign pack size</label>
+                    <input class="input" id="top-n" type="number" min="5" max="50" value="25" />
+                  </div>
+                  <div class="field-wrap" style="min-width:160px">
+                    <label class="field">Marketer QA</label>
+                    <label class="check-line"><input type="checkbox" id="use-marketer" checked /> Protect heroes · cut weak tail</label>
+                  </div>
+                </div>
+
+                <div class="btn-row">
+                  <button type="button" class="btn btn-primary" id="btn-run" data-action="run-pipeline">Run full pipeline</button>
+                  <button type="button" class="btn btn-ghost" data-action="goto-campaign">Open priority list</button>
+                  <button type="button" class="btn btn-ghost" data-action="export-campaign">Export Excel</button>
+                </div>
+
+                <div class="progress-wrap" id="progress-wrap">
+                  <div class="progress-bar"><i id="progress-bar"></i></div>
+                  <div class="progress-msg" id="progress-msg">Starting…</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="view" id="view-campaign">
+          <div class="panel">
+            <div class="section-title">
+              <div>
+                <h2>Priority list · post order</h2>
+                <p>Global ranked campaign pack — what to post first</p>
+              </div>
+              <div class="btn-row" style="margin:0">
+                <button type="button" class="btn btn-pink btn-sm" data-action="export-campaign">Export Excel</button>
+                <button type="button" class="btn btn-ghost btn-sm" data-action="refresh-campaign">Refresh</button>
+              </div>
+            </div>
+            <div class="toolbar">
+              <div class="field-wrap" style="flex:1;min-width:200px">
+                <label class="field">Search</label>
+                <input class="input" id="camp-search" placeholder="Hook, cliff, character…" />
+              </div>
+              <div class="field-wrap">
+                <label class="field">Label</label>
+                <select class="input" id="camp-label"><option value="">All</option></select>
+              </div>
+            </div>
+            <div class="table-wrap">
+              <table class="data" id="camp-table">
+                <colgroup>
+                  <col style="width:64px" />
+                  <col style="width:52px" />
+                  <col style="width:64px" />
+                  <col style="width:18%" />
+                  <col style="width:18%" />
+                  <col style="width:16%" />
+                  <col style="width:120px" />
+                  <col style="width:100px" />
+                  <col style="width:90px" />
+                </colgroup>
+                <thead>
+                  <tr>
+                    <th>Rank</th>
+                    <th>Ep</th>
+                    <th>Score</th>
+                    <th>Hook</th>
+                    <th>Cliffhanger</th>
+                    <th>Why it works</th>
+                    <th>Segments</th>
+                    <th>Labels</th>
+                    <th>Role</th>
+                  </tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+        <section class="view" id="view-episodes">
+          <div class="panel">
+            <div class="section-title">
+              <div>
+                <h2>By episode</h2>
+                <p>Top promos per episode after pipeline</p>
+              </div>
+            </div>
+            <div class="toolbar">
+              <div class="field-wrap">
+                <label class="field">Top N / ep</label>
+                <input class="input" id="ep-topn" type="number" min="1" max="10" value="5" />
+              </div>
+              <div class="field-wrap">
+                <label class="field">Filter by label</label>
+                <select class="input" id="ep-label"><option value="">All</option></select>
+              </div>
+              <div class="field-wrap">
+                <label class="field">Episode</label>
+                <input class="input" id="ep-num" type="number" min="1" placeholder="All" />
+              </div>
+              <button type="button" class="btn btn-ghost btn-sm" data-action="refresh-episodes">Apply</button>
+              <button type="button" class="btn btn-pink btn-sm" data-action="export-episode">Export Excel</button>
+            </div>
+            <div class="ep-list" id="ep-list"></div>
+          </div>
+        </section>
+
+<section class="view" id="view-continuity">
+      <div class="story-banner">
+        <div class="eyebrow">Continuity &amp; rank · plain English</div>
+        <h2>How the system decides <span style="color:var(--brand)">what to post first</span></h2>
+        <p>
+          Think of this page as the <strong style="color:#fff">brain behind the Priority list</strong>.
+          First we learn the whole show (characters, themes, story arc). Then every promo clip is scored
+          for cold-open power — not by genre tag, but by hook, cliff, clarity, and fit to the series spine.
+          The result is a post-first order a growth marketer can trust.
+        </p>
+      </div>
+
+      <div class="pipeline-steps">
+        <div class="step-card">
+          <div class="num">STEP 01</div>
+          <h3>Map the series</h3>
+          <p>Read all episode scripts → who matters, what the spine is, where the arc turns.</p>
+        </div>
+        <div class="step-card">
+          <div class="num">STEP 02</div>
+          <h3>Score every promo</h3>
+          <p>Hook · cliff · emotion · clarity · continuity fit · duration. Labels never drive the score.</p>
+        </div>
+        <div class="step-card">
+          <div class="num">STEP 03</div>
+          <h3>Build the pack</h3>
+          <p>Top global scores with soft diversity — mix themes, space episodes, max 2 per ep.</p>
+        </div>
+        <div class="step-card">
+          <div class="num">STEP 04</div>
+          <h3>Marketer QA</h3>
+          <p>Protect heroes, cut thin hooks / bad segments. See the next tab for the cut list.</p>
+        </div>
+      </div>
+
+      <div class="two-col" style="margin-bottom:16px">
+        <div class="panel">
+          <div class="section-title">
+            <div>
+              <h2>1 · Series Continuity Map</h2>
+              <p>Whole-show context the ranker uses as “memory”</p>
+            </div>
+          </div>
+          <div class="explain-box">
+            <strong>Why this exists:</strong> a 12-second promo must still feel like <em>this</em> show.
+            The map stores the one-liner, principals, spine themes, and arc phases so we can reward clips
+            that land on the real story — without spoiling the ending.
+            <span class="tiny">Built once from all episode loglines + beat text. Not a genre filter.</span>
+          </div>
+          <div class="kv" id="continuity-kv"></div>
+
+          <h3 style="margin:18px 0 8px;font-size:13px;color:var(--faint);text-transform:uppercase;letter-spacing:0.06em;font-weight:800">Spine themes</h3>
+          <p class="help" style="margin:0 0 8px">These are the story rails. Clips that touch them score higher on “continuity fit”.</p>
+          <div class="theme-pills" id="theme-cloud"></div>
+
+          <h3 style="margin:18px 0 8px;font-size:13px;color:var(--faint);text-transform:uppercase;letter-spacing:0.06em;font-weight:800">Principal characters</h3>
+          <p class="help" style="margin:0 0 8px">Who the audience already cares about — face time in promos should bias here.</p>
+          <div class="char-grid" id="char-cloud"></div>
+
+          <h3 style="margin:18px 0 8px;font-size:13px;color:var(--faint);text-transform:uppercase;letter-spacing:0.06em;font-weight:800">Story arc phases</h3>
+          <div class="arc-list" id="arc-list"></div>
+        </div>
+
+        <div class="panel">
+          <div class="section-title">
+            <div>
+              <h2>2 · Global ranking recipe</h2>
+              <p>Type-agnostic score → campaign pack</p>
+            </div>
+          </div>
+          <div class="explain-box">
+            <strong>Key rule:</strong> classification labels (emotional, cliffhanger, romantic…) are
+            <em>tags for experiments</em>. They are <strong>excluded</strong> from the numeric score so
+            we never over-index one vibe.
+            <span class="tiny" id="ranking-blurb">Weights below come from the loaded deliverable.</span>
+          </div>
+
+          <h3 style="margin:0 0 10px;font-size:13px;color:var(--faint);text-transform:uppercase;letter-spacing:0.06em;font-weight:800">What drives series_global_score</h3>
+          <div class="score-bars" id="score-bars">
+            <!-- filled by JS; static fallback weights -->
+          </div>
+
+          <div class="do-dont">
+            <div class="box do">
+              <h4>✓ Ranking does</h4>
+              <ul>
+                <li>Prefer cold-open hooks a stranger gets in 2s</li>
+                <li>Reward clean cliffs that pull the next watch</li>
+                <li>Boost spine-theme + principal fit</li>
+                <li>Spread episodes so the pack isn’t one arc beat</li>
+              </ul>
+            </div>
+            <div class="box dont">
+              <h4>✗ Ranking never</h4>
+              <ul>
+                <li>Scores by promo_type / label</li>
+                <li>Auto-picks only “cliffhanger” clips</li>
+                <li>Dumps 5 promos from the same episode</li>
+                <li>Ignores spoiler risk on late reveals</li>
+              </ul>
+            </div>
+          </div>
+
+          <h3 style="margin:18px 0 8px;font-size:13px;color:var(--faint);text-transform:uppercase;letter-spacing:0.06em;font-weight:800">Method notes (from pipeline)</h3>
+          <div id="ranking-method"></div>
+
+          <h3 style="margin:18px 0 8px;font-size:13px;color:var(--faint);text-transform:uppercase;letter-spacing:0.06em;font-weight:800">Label mix in current pack</h3>
+          <p class="help" style="margin:0 0 8px">Observation only — how tags landed after ranking, not what caused rank.</p>
+          <div class="chip-cloud" id="pack-labels"></div>
+          <h3 style="margin:18px 0 8px;font-size:13px;color:var(--faint);text-transform:uppercase;letter-spacing:0.06em;font-weight:800">Campaign roles</h3>
+          <p class="help" style="margin:0 0 8px">Post job each clip is best at: acquisition, bond, tension, reveal…</p>
+          <div class="chip-cloud" id="pack-roles"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="view" id="view-marketer">
+      <div class="story-banner">
+        <div class="eyebrow">Marketer QA · quality gate before you post</div>
+        <h2>Protect heroes. <span style="color:var(--brand)">Cut the weak tail.</span></h2>
+        <p>
+          After ranking builds a campaign pack, a Marketer Agent reviews it the way a growth lead would:
+          keep anything already strong, remove clips with thin hooks, muddy segments, or low standalone clarity.
+          <strong style="color:#fff">Labels never decide keep vs cut</strong> — craft and clarity do.
+        </p>
+      </div>
+
+      <div class="mk-hero">
+        <div class="panel">
+          <div class="section-title">
+            <div>
+              <h2>How the agent decides</h2>
+              <p>Simple rules you can explain in a review meeting</p>
+            </div>
+          </div>
+          <div class="mk-rule">
+            <div class="ico keep">P</div>
+            <div>
+              <h4>Protect (never auto-cut)</h4>
+              <p>Top ~12 by global score, or score ≥ 7.85, or strong craft signals. These are “hero” posts — the agent will not drop them even if a niche rule fires.</p>
+            </div>
+          </div>
+          <div class="mk-rule">
+            <div class="ico cut">C</div>
+            <div>
+              <h4>Cut (weak tail)</h4>
+              <p>Thin / generic hooks, broken or empty segments, low standalone clarity, muddy cold opens. Soft floor keeps pack size roughly in a usable window (about 12–20).</p>
+            </div>
+          </div>
+          <div class="mk-rule">
+            <div class="ico warn">!</div>
+            <div>
+              <h4>Labels stay on the card</h4>
+              <p>emotional / cliffhanger / romantic tags remain for A/B experiments. They are <em>not</em> used as cut reasons — so you can still try every vibe in market.</p>
+            </div>
+          </div>
+          <div class="explain-box" id="mk-summary">
+            Load a campaign pack to see live protect / cut counts.
+          </div>
+        </div>
+
+        <div class="panel">
+          <div class="section-title">
+            <div>
+              <h2>Funnel snapshot</h2>
+              <p>Where this pack stands right now</p>
+            </div>
+          </div>
+          <div class="mk-funnel">
+            <div class="f-row">
+              <span class="f-label">Campaign pack size (post-rank)</span>
+              <span class="f-val" id="mk-pack-size">—</span>
+            </div>
+            <div class="f-row">
+              <span class="f-label">Protected heroes</span>
+              <span class="f-val ok" id="mk-prot">—</span>
+            </div>
+            <div class="f-row">
+              <span class="f-label">Cut by Marketer Agent</span>
+              <span class="f-val bad" id="mk-cuts">—</span>
+            </div>
+            <div class="f-row">
+              <span class="f-label">Kept for posting</span>
+              <span class="f-val mid" id="mk-kept">—</span>
+            </div>
+          </div>
+          <div class="legend-row">
+            <span><i class="legend-dot" style="background:#86efac"></i> Protected = safe to ship</span>
+            <span><i class="legend-dot" style="background:#ff9ea3"></i> Cut = do not post first</span>
+            <span><i class="legend-dot" style="background:#fde68a"></i> Kept = passed QA</span>
+          </div>
+          <p class="help">Open <strong style="color:#fff">Priority list</strong> for the final post order. Export Excel only ships problem-statement fields.</p>
+          <div class="btn-row" style="margin-top:10px">
+            <button type="button" class="btn btn-pink btn-sm" data-action="goto-campaign">Open priority list</button>
+            <button type="button" class="btn btn-ghost btn-sm" data-action="export-campaign">Export Excel</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel">
+        <div class="section-title">
+          <div>
+            <h2>Cut list — why each promo was removed</h2>
+            <p>Read these like a QA ticket: episode · prior rank · score · hook · reason</p>
+          </div>
+        </div>
+        <div class="table-wrap">
+          <table class="data" id="cut-table">
+            <colgroup>
+              <col style="width:52px" />
+              <col style="width:72px" />
+              <col style="width:72px" />
+              <col style="width:28%" />
+              <col style="width:32%" />
+              <col style="width:140px" />
+            </colgroup>
+            <thead>
+              <tr>
+                <th>Ep</th>
+                <th>Was #</th>
+                <th>Score</th>
+                <th>Hook (what we almost posted)</th>
+                <th>Why it was cut</th>
+                <th>Labels (not the cause)</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <section class="view" id="view-features">
+      <div class="panel">
+        <div class="section-title">
+          <h2>Full product surface</h2>
+          <p>Everything built in the pipeline, exposed here</p>
+        </div>
+        <div class="feature-grid" id="feature-grid-all"></div>
+        <div style="margin-top:22px" class="two-col">
+          <div>
+            <h3 style="font-size:14px;color:var(--muted)">Assignment checklist</h3>
+            <ul style="color:var(--muted);font-size:13px;line-height:1.7">
+              <li>Find promos across all episodes</li>
+              <li>Episode + ordered segment start/end timestamps</li>
+              <li>Hook · cliffhanger · one-line why it works</li>
+              <li>Rank what to post first (+ why)</li>
+              <li>Quality gate — Marketer cuts and protected heroes</li>
+              <li>Classification labels (experiment tags, not score drivers)</li>
+            </ul>
+          </div>
+          <div>
+            <h3 style="font-size:14px;color:var(--muted)">Product extras in this prototype</h3>
+            <ul style="color:var(--muted);font-size:13px;line-height:1.7">
+              <li>Folder + upload script intake</li>
+              <li>Rule / Hybrid (recommended) / LLM modes</li>
+              <li>Campaign Excel + episode Excel export (PS fields only)</li>
+              <li>Episode explorer · Top 2 / 3 / 5 · label filter</li>
+              <li>Continuity map and ranking transparency</li>
+              <li>Campaign role mix (acquisition / bond / …)</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    
+      </div>
+    </div>
+  </div>
+
+  <script src="/static/js/app.js?v=12"></script>
+</body>
+</html>

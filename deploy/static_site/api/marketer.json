@@ -1,0 +1,63 @@
+{
+  "summary": "Marketer reviewed ~25 ranked candidates: protected 19 hero posts, cut 4 weak-tail clips, kept 21 for the posting pack. Labels never decide keep/cut — craft, hook strength, segment clarity do.",
+  "cut_count": 4,
+  "protected_count": 19,
+  "kept_count": 21,
+  "pack_size": 21,
+  "pre_marketer_n": 25,
+  "cut_list": [
+    {
+      "episode": 21,
+      "old_rank": 14,
+      "series_global_score": 7.373,
+      "overall_score": 6.56,
+      "hook": "\"His skin is burning hot.\"",
+      "reason": "CUT:soft_short_hook",
+      "fails": [],
+      "promo_types": [
+        "romantic"
+      ]
+    },
+    {
+      "episode": 26,
+      "old_rank": 18,
+      "series_global_score": 7.247,
+      "overall_score": 6.79,
+      "hook": "\"Who are you? Speak to me. I have not seen your face before.\"",
+      "reason": "CUT:relative_pack_size",
+      "fails": [],
+      "promo_types": [
+        "romantic"
+      ]
+    },
+    {
+      "episode": 7,
+      "old_rank": 20,
+      "series_global_score": 7.153,
+      "overall_score": 6.56,
+      "hook": "\"This is where you live now?\"",
+      "reason": "CUT:relative_pack_size",
+      "fails": [],
+      "promo_types": [
+        "conflict"
+      ]
+    },
+    {
+      "episode": 37,
+      "old_rank": 22,
+      "series_global_score": 7.087,
+      "overall_score": 6.77,
+      "hook": "\"After what she has been accused of? Of course.\"",
+      "reason": "CUT:relative_pack_size",
+      "fails": [
+        "global_below_7.15"
+      ],
+      "promo_types": [
+        "revelation"
+      ]
+    }
+  ],
+  "max_per_episode": 2,
+  "top_n_rule": "user-requested N=25 then marketer trim",
+  "note": "Marketer agent trims weak hooks/segments/low clarity without removing protected promos (top 10, global>=7.85, strong craft). promo_types never decide keep/cut."
+}

@@ -1,0 +1,89 @@
+{
+  "description": "Gold labels for promo detection evaluation. Labels: good (strong promo moment), okay (acceptable but not great), bad (breaks immersion or weak luxury signal). Add labels for any episode as needed.",
+  "labels": [
+    {
+      "episode": "004",
+      "timestamp": "00:00.00 - 00:03.20",
+      "text": "Close-up of the Mysterious Bearded Man's scarred hand holding out the silver band ring",
+      "label": "good",
+      "notes": "Strong luxury signal (ring close-up), intimate moment, high visual potential"
+    },
+    {
+      "episode": "004",
+      "timestamp": "00:01.50 - 00:03.20",
+      "text": "Medium close-up of Juliana staring at the offered ring",
+      "label": "good",
+      "notes": "Clear product focus with emotional weight"
+    },
+    {
+      "episode": "004",
+      "timestamp": "02:07.50 - 02:11.50",
+      "text": "\"Do not bring this man anywhere near Ashcroft Manor!\"",
+      "label": "bad",
+      "notes": "High conflict moment - placing luxury here would break immersion"
+    },
+    {
+      "episode": "004",
+      "timestamp": "00:52.80 - 00:55.80",
+      "text": "Medium shot of Juliana, her pride flaring through her sadness",
+      "label": "okay",
+      "notes": "Emotional but no clear luxury/product hook"
+    },
+    {
+      "episode": "004",
+      "timestamp": "02:27.50 - 02:31.40",
+      "text": "Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering doors",
+      "label": "okay",
+      "notes": "Nice emotional closure but low luxury signal"
+    },
+    {
+      "episode": "005",
+      "timestamp": "00:00.00 - 00:02.50",
+      "text": "Close-up on Lady Juliana's hands clutching an ancient, brass-bound leather ledger against her white wedding gown",
+      "label": "good",
+      "notes": "Excellent luxury signal (wedding gown + heirloom ledger), strong visual"
+    },
+    {
+      "episode": "005",
+      "timestamp": "00:00.00 - 00:02.50",
+      "text": "Juliana grips the heirloom ledger tightly against her waist",
+      "label": "good",
+      "notes": "Good character moment with luxury object"
+    },
+    {
+      "episode": "005",
+      "timestamp": "01:05.50 - 01:08.50",
+      "text": "Juliana drops to her knees onto the wet courtyard pavement",
+      "label": "bad",
+      "notes": "Highly emotional/distressed moment - luxury placement would feel wrong"
+    },
+    {
+      "episode": "005",
+      "timestamp": "01:46.00 - 01:50.50",
+      "text": "Rain gently pattering on cobblestones... SCRIPT END",
+      "label": "bad",
+      "notes": "Ending beat - placing product here breaks emotional closure"
+    },
+    {
+      "episode": "005",
+      "timestamp": "01:45.50 - 01:50.50",
+      "text": "High wide shot of Juliana and the Mysterious Bearded Man walking away",
+      "label": "okay",
+      "notes": "Nice visual but low product opportunity"
+    },
+    {
+      "episode": "004",
+      "timestamp": "00:03.50 - 00:08.00",
+      "text": "Juliana's fingers tremble as she touches the silver band ring",
+      "label": "good",
+      "notes": "Hypothetical strong moment - ring focus with emotion"
+    },
+    {
+      "episode": "005",
+      "timestamp": "00:10.00 - 00:15.00",
+      "text": "Juliana adjusts the white wedding gown while holding the ledger",
+      "label": "good",
+      "notes": "Wedding dress + ledger = strong luxury visual"
+    }
+  ]
+}
